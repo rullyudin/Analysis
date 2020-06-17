@@ -1,0 +1,175 @@
+Merek,Model,Varian,Girboks,Harga,Jenis Bahan Bakar,Jenis Transmisi,Jumlah Silinder,Kapasitas mesin,Katup per Silinder,Konfigurasi Katup,Sistem Suplai Bahan Bakar,Tenaga,Torsi
+daihatsu,ayla,1-0l-d-mt,5-Speed,"Rp 211,1 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,64 hp,86 Nm
+daihatsu,ayla,1-0l-d-plus-mt,5-Speed,"Rp 143,4 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,64 hp,86 Nm
+daihatsu,ayla,1-0l-x-at,4-Speed,"Rp 102,15 Juta*",Bensin,Otomatis,3,998 cc,4,DOHC,EFI,64 hp,86 Nm
+daihatsu,ayla,1-0l-x-at-dlx,4-Speed,"Rp 114,35 Juta*",Bensin,Otomatis,3,998 cc,4,DOHC,EFI,64 hp,86 Nm
+daihatsu,ayla,1-0l-x-mt,5-Speed,"Rp 200,1 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,64 hp,86 Nm
+daihatsu,ayla,1-0l-x-mt-dlx,5-Speed,"Rp 155,9 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,64 hp,86 Nm
+daihatsu,ayla,1-2l-r-at,4-Speed,"Rp 146,45 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,ayla,1-2l-r-at-dlx,4-Speed,"Rp 141,55 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,ayla,1-2l-r-mt,5-Speed,"Rp 136,45 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,ayla,1-2l-r-mt-dlx,5-Speed,"Rp 132,5 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,ayla,1-2l-x-at,4-Speed,"Rp 134,2 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,ayla,1-2l-x-mt,5-Speed,"Rp 125,15 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,gran-max-mb,1-3-d-ff-fh,5-Speed,"Rp 178,28 Juta*",Bensin,Manual,4,1298 cc,4,DOHC,EFI,87 hp,115 Nm
+daihatsu,gran-max-mb,1-3-d-fh,5-Speed,"Rp 171,88 Juta*",Bensin,Manual,4,1298 cc,4,DOHC,EFI,87 hp,115 Nm
+daihatsu,gran-max-mb,1-5-d-ps-fh,5-Speed,"Rp 187,88 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,gran-max-pu,1-3-3w,5-Speed,"Rp 141,4 Juta*",Bensin,Manual,4,1298 cc,4,DOHC,EFI,87 hp,115 Nm
+daihatsu,gran-max-pu,1-3-std,5-Speed,"Rp 141,4 Juta*",Bensin,Manual,4,1298 cc,4,DOHC,EFI,87 hp,115 Nm
+daihatsu,gran-max-pu,1-5-3w,5-Speed,"Rp 146,1 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,gran-max-pu,1-5-std,5-Speed,"Rp 146,1 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,gran-max-pu,1-5-std-acaps,5-Speed,"Rp 153,1 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,gran-max-pu,box-1-3-sliding,5-Speed,"Rp 163,4 Juta*",Bensin,Manual,4,1298 cc,4,DOHC,EFI,87 hp,115 Nm
+daihatsu,gran-max-pu,box-1-5,5-Speed,"Rp 175,1 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,gran-max-pu,box-1-5-sliding,5-Speed,"Rp 168,1 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,grand-xenia,1-3-r-at,4-Speed,"Rp 206,2 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-r-deluxe-at,4-Speed,"Rp 205,65 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-r-deluxe-mt,5-Speed,"Rp 205,15 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-r-mt,5-Speed,"Rp 238,15 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-x-at,4-Speed,"Rp 227,25 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-x-deluxe-at,4-Speed,"Rp 194,25 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-x-deluxe-mt,5-Speed,"Rp 226,95 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-3-x-mt,5-Speed,"Rp 216,55 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,96 hp,121 Nm
+daihatsu,grand-xenia,1-5-r-deluxe-at,4-Speed,"Rp 217,45 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,grand-xenia,1-5-r-deluxe-mt,5-Speed,"Rp 218,05 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,luxio,1-5-d-mt,5-Speed,"Rp 203,7 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,luxio,1-5-x-at,4-Speed,"Rp 232,95 Juta*",Bensin,Otomatis,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,luxio,1-5-x-mt,5-Speed,"Rp 221,85 Juta*",Bensin,Manual,4,1495 cc,4,DOHC,EFI,96 hp,134 Nm
+daihatsu,sigra,1-0-d-mt,5-Speed,"Rp 119,5 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,66 hp,89 Nm
+daihatsu,sigra,1-0-m-mt,5-Speed,"Rp 129,9 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,66 hp,89 Nm
+daihatsu,sigra,1-2-r-at,4-Speed,"Rp 158,45 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-r-dlx-at,4-Speed,"Rp 162,25 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-r-dlx-mt,5-Speed,"Rp 149,45 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-r-mt,5-Speed,"Rp 145,65 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-x-at,4-Speed,"Rp 152,05 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-x-dlx-at,4-Speed,"Rp 157,55 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-x-dlx-mt,5-Speed,"Rp 144,75 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sigra,1-2-x-mt,5-Speed,"Rp 139,25 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+daihatsu,sirion,1-3l-at,4-Speed,"Rp 147,4 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,94 hp,120 Nm
+daihatsu,sirion,1-3l-mt,5-Speed,"Rp 159,9 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,94 hp,120 Nm
+daihatsu,terios,r-at,4-Speed,"Rp 254,5 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,terios,r-at-deluxe,4-Speed,"Rp 264,5 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,terios,r-mt,5-Speed,"Rp 244,5 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,terios,r-mt-deluxe,5-Speed,"Rp 254,5 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,terios,x-at-deluxe,4-Speed,"Rp 231,8 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,terios,x-mt,5-Speed,"Rp 211,8 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+daihatsu,terios,x-mt-deluxe,5-Speed,"Rp 221,8 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+honda,accord,1-5l,Variable Speed,"Rp 734,1 Juta*",Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,187 hp,260 Nm
+honda,br-v,e-cvt,Variable Speed,"Rp 276,8 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,br-v,e-mt,6-Speed,"Rp 266,6 Juta*",Bensin,Manual,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,br-v,prestige-cvt,Variable Speed,"Rp 293,8 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,br-v,s-6mt,6-Speed,"Rp 251,2 Juta*",Bensin,Manual,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,brio,rs,5-Speed,"Rp 186,9 Juta*",Bensin,Manual,4,1199 cc,4,SOHC,PGM-FI,89 hp,110 Nm
+honda,brio,rs-cvt,Variable Speed,"Rp 202,2 Juta*",Bensin,CVT,4,1199 cc,4,SOHC,PGM-FI,89 hp,110 Nm
+honda,brio,satya-e,5-Speed,"Rp 157,2 Juta*",Bensin,Manual,4,1199 cc,4,SOHC,PGM-FI,89 hp,110 Nm
+honda,brio,satya-e-cvt,Variable Speed,"Rp 172,6 Juta*",Bensin,CVT,4,1199 cc,4,SOHC,PGM-FI,89 hp,110 Nm
+honda,brio,satya-s,5-Speed,"Rp 148,4 Juta*",Bensin,Manual,4,1199 cc,4,SOHC,PGM-FI,89 hp,110 Nm
+honda,city,e-cvt,Variable Speed,"Rp 355,5 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,city,e-mt,5-Speed,Rp 337 Juta*,Bensin,Manual,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,civic,1-5l-turbo,Variable Speed,"Rp 536,5 Juta*",Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,171 hp,220 Nm
+honda,civic-hatchback,e-cvt,Variable Speed,Rp 472 Juta*,Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,171 hp,220 Nm
+honda,civic-hatchback,s-cvt,Variable Speed,"Rp 431,6 Juta*",Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,171 hp,220 Nm
+honda,civic-hatchback-rs,1-5l,Variable Speed,Rp 499 Juta*,Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,171 hp,220 Nm
+honda,civic-type-r,6-speed-mt,6-Speed,"Rp 1,07 Milyar*",Bensin,Manual,4,1996 cc,4,DOHC,PGM-FI,306 hp,400 Nm
+honda,cr-v,1-5l-turbo,Variable Speed,"Rp 502,6 Juta*",Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,187 hp,240 Nm
+honda,cr-v,1-5l-turbo-prestige,Variable Speed,"Rp 543,7 Juta*",Bensin,CVT,4,1498 cc,4,DOHC,PGM-FI,187 hp,240 Nm
+honda,cr-v,2-0l,Variable Speed,"Rp 467,9 Juta*",Bensin,CVT,4,1997 cc,4,SOHC,PGM-FI,153 hp,189 Nm
+honda,hr-v,1-5l-e-cvt,Variable Speed,"Rp 335,9 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,hr-v,1-5l-e-cvt-special-edition,Variable Speed,"Rp 353,1 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,hr-v,1-5l-s,6-Speed,"Rp 301,6 Juta*",Bensin,Manual,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,hr-v,1-5l-s-cvt,Variable Speed,"Rp 311,8 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,hr-v,1-8l-prestige,Variable Speed,"Rp 420,8 Juta*",Bensin,CVT,4,1799 cc,4,SOHC,PGM-FI,137 hp,169 Nm
+honda,jazz,cvt,Variable Speed,"Rp 262,9 Juta*",Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,jazz,mt,5-Speed,"Rp 252,5 Juta*",Bensin,Manual,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,jazz,rs-cvt,Variable Speed,Rp 295 Juta*,Bensin,CVT,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,jazz,rs-mt,5-Speed,"Rp 284,7 Juta*",Bensin,Manual,4,1497 cc,4,SOHC,PGM-FI,118 hp,145 Nm
+honda,mobilio,e-cvt,Variable Speed,"Rp 238,1 Juta*",Bensin,CVT,4,1496 cc,4,SOHC,PGM-FI,116 hp,145 Nm
+honda,mobilio,e-mt,5-Speed,"Rp 226,6 Juta*",Bensin,Manual,4,1496 cc,4,SOHC,PGM-FI,116 hp,145 Nm
+honda,mobilio,rs-cvt,Variable Speed,"Rp 261,4 Juta*",Bensin,CVT,4,1496 cc,4,SOHC,PGM-FI,116 hp,145 Nm
+honda,mobilio,rs-mt,5-Speed,"Rp 250,5 Juta*",Bensin,Manual,4,1496 cc,4,SOHC,PGM-FI,116 hp,145 Nm
+honda,mobilio,s-mt,5-Speed,"Rp 205,5 Juta*",Bensin,Manual,4,1496 cc,4,SOHC,PGM-FI,116 hp,145 Nm
+honda,odyssey,2-4l,Variable Speed,"Rp 780,7 Juta*",Bensin,CVT,4,2356 cc,4,DOHC,PGM-FI,173 hp,225 Nm
+toyota,86,at,5-Speed,Rp 168 Juta*,Bensin,Otomatis,4,1597 cc,4,DOHC,MPFI,110 hp,148 Nm
+toyota,86,mt,4-Speed,"Rp 816,95 Juta*",Bensin,Manual,4,1597 cc,4,DOHC,MPFI,110 hp,148 Nm
+toyota,86,trd-at,6-Speed,Rp 178 Juta*,Bensin,Otomatis,4,1998 cc,4,DOHC,Direct Injection,197 hp,205 Nm
+toyota,agya,1-0l-g-at,4-Speed,"Rp 156,81 Juta*",Bensin,Otomatis,3,998 cc,4,DOHC,EFI,66 hp,89 Nm
+toyota,agya,1-0l-g-mt,5-Speed,"Rp 143,8 Juta*",Bensin,Manual,3,998 cc,4,DOHC,EFI,66 hp,89 Nm
+toyota,agya,1-2l-g-at,4-Speed,"Rp 161,64 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,agya,1-2l-g-mt,5-Speed,"Rp 148,1 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,agya,1-2l-g-mt-trd,5-Speed,"Rp 153,44 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,agya,1-2l-trd-at,4-Speed,"Rp 169,29 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,alphard,2-5-g-at,Variable Speed,"Rp 2,18 Milyar*",Bensin,CVT,4,2494 cc,4,DOHC,EFI,178 hp,234 Nm
+toyota,alphard,2-5-x-at,Variable Speed,"Rp 1,18 Milyar*",Bensin,CVT,4,2494 cc,4,DOHC,EFI,178 hp,234 Nm
+toyota,alphard,3-5-q-at,8-Speed,"Rp 2,52 Milyar*",Bensin,Otomatis,6,3456 cc,4,DOHC,EFI,296 hp,360 Nm
+toyota,avanza,1-3e-at,4-Speed,"Rp 228,7 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,91 hp,120 Nm
+toyota,avanza,1-3e-mt,5-Speed,"Rp 230,3 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,91 hp,120 Nm
+toyota,avanza,1-3g-at,4-Speed,Rp 218 Juta*,Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,91 hp,120 Nm
+toyota,avanza,1-3g-mt,5-Speed,"Rp 200,15 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,91 hp,120 Nm
+toyota,avanza,1-5g-mt,5-Speed,"Rp 211,35 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,avanza-veloz,1-3-at,4-Speed,"Rp 248,5 Juta*",Bensin,Otomatis,4,1329 cc,4,DOHC,EFI,95 hp,121 Nm
+toyota,avanza-veloz,1-3-mt,5-Speed,"Rp 224,7 Juta*",Bensin,Manual,4,1329 cc,4,DOHC,EFI,95 hp,121 Nm
+toyota,avanza-veloz,1-5-at,4-Speed,"Rp 236,7 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,avanza-veloz,1-5-mt,5-Speed,"Rp 236,5 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,c-hr,1-8l-cvt,7-Speed,"Rp 835,1 Juta*",Bensin,CVT,4,1798 cc,4,DOHC,Fuel Injection,139 hp,171 Nm
+toyota,c-hr-hybrid,1-8l,7-Speed,"Rp 544,29 Juta*",Bensin,CVT,4,1798 cc,4,DOHC,EFI,99 hp,142 Nm
+toyota,calya,e-mt,5-Speed,"Rp 147,3 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,calya,g-at,4-Speed,"Rp 165,8 Juta*",Bensin,Otomatis,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,calya,g-mt,5-Speed,"Rp 153,6 Juta*",Bensin,Manual,4,1197 cc,4,DOHC,EFI,87 hp,108 Nm
+toyota,camry,2-5-g,6-Speed,"Rp 641,85 Juta*",Bensin,Otomatis,4,2494 cc,4,DOHC,EFI,180 hp,239 Nm
+toyota,camry,2-5-v,6-Speed,"Rp 675,15 Juta*",Bensin,Otomatis,4,2494 cc,4,DOHC,EFI,180 hp,239 Nm
+toyota,camry-hybrid,2-5-hv,Variable Speed,"Rp 440,15 Juta*",Bensin,CVT,4,2487 cc,4,DOHC,EFI,176 hp,221 Nm
+toyota,corolla-altis,g-at,7-Speed,"Rp 537,5 Juta*",Bensin,CVT,4,1798 cc,4,DOHC,EFI,138 hp,177 Nm
+toyota,corolla-altis,hybrid-at,Variable Speed,"Rp 501,75 Juta*",Bensin,CVT,4,1798 cc,4,DOHC,EFI,96 hp,142 Nm
+toyota,corolla-altis,v-at,7-Speed,"Rp 501,25 Juta*",Bensin,CVT,4,1798 cc,4,DOHC,EFI,138 hp,177 Nm
+toyota,fortuner,2-4-g-at,6-Speed,"Rp 541,55 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,fortuner,2-4-g-at-4x4,6-Speed,"Rp 580,25 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,fortuner,2-4-g-mt,6-Speed,"Rp 510,95 Juta*",Diesel,Manual,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,fortuner,2-4-trd-at,6-Speed,"Rp 566,95 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,fortuner,2-4-vrz-at,6-Speed,"Rp 554,85 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,fortuner,2-4-vrz-at-4x4,6-Speed,"Rp 492,95 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,fortuner,2-7-srz-at,6-Speed,"Rp 685,05 Juta*",Bensin,Otomatis,4,2694 cc,4,DOHC,EFI,160 hp,242 Nm
+toyota,fortuner,2-7-trd-at,6-Speed,"Rp 613,45 Juta*",Bensin,Otomatis,4,2694 cc,4,DOHC,CRDi,160 hp,242 Nm
+toyota,hiace,commuter-manual,5-Speed,"Rp 343,65 Juta*",Diesel,Manual,4,2494 cc,4,DOHC,CRDi,101 hp,260 Nm
+toyota,hiace,commuter-manualluxury,5-Speed,"Rp 509,05 Juta*",Diesel,Manual,4,2494 cc,4,DOHC,CRDi,101 hp,260 Nm
+toyota,hiace,premio,6-Speed,"Rp 321,75 Juta*",Diesel,Manual,4,2755 cc,4,DOHC,CRDi,154 hp,420 Nm
+toyota,hiace,std-manual,5-Speed,"Rp 327,55 Juta*",Diesel,Manual,4,2494 cc,4,DOHC,CRDi,101 hp,260 Nm
+toyota,hilux,2-0l-single-cab,5-Speed,"Rp 231,55 Juta*",Bensin,Manual,4,1998 cc,4,DOHC,EFI,137 hp,183 Nm
+toyota,hilux,2-4l-d-cab-e-mt,6-Speed,"Rp 426,5 Juta*",Diesel,Manual,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,hilux,2-4l-d-cab-g-mt,6-Speed,"Rp 447,5 Juta*",Diesel,Manual,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,hilux,2-4l-d-cab-v-at,6-Speed,"Rp 485,6 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,148 hp,400 Nm
+toyota,kijang-innova,g-at-diesel,6-Speed,"Rp 377,45 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,147 hp,360 Nm
+toyota,kijang-innova,g-at-gasoline,6-Speed,"Rp 346,25 Juta*",Bensin,Otomatis,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,kijang-innova,g-mt-diesel,5-Speed,"Rp 355,95 Juta*",Diesel,Manual,4,2393 cc,4,DOHC,CRDi,147 hp,342 Nm
+toyota,kijang-innova,g-mt-gasoline,5-Speed,"Rp 326,05 Juta*",Bensin,Manual,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,kijang-innova,q-at-gasoline,6-Speed,"Rp 428,2 Juta*",Bensin,Otomatis,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,kijang-innova,q-mt-gasoline,5-Speed,"Rp 407,9 Juta*",Bensin,Manual,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,kijang-innova,v-at-diesel,6-Speed,"Rp 428,75 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,147 hp,360 Nm
+toyota,kijang-innova,v-at-gasoline,6-Speed,"Rp 394,85 Juta*",Bensin,Otomatis,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,kijang-innova,v-mt-diesel,5-Speed,"Rp 408,75 Juta*",Diesel,Manual,4,2393 cc,4,DOHC,CRDi,147 hp,342 Nm
+toyota,kijang-innova,v-mt-gasoline,5-Speed,"Rp 375,05 Juta*",Bensin,Manual,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,land-cruiser,vx-grade,6-Speed,"Rp 1,95 Milyar*",Diesel,Otomatis,8,4461 cc,4,DOHC,CRDi,232 hp,616 Nm
+toyota,land-cruiser,vx-r,6-Speed,"Rp 1,03 Milyar*",Diesel,Otomatis,8,4461 cc,4,DOHC,CRDi,232 hp,616 Nm
+toyota,prius-phev,1-8l,Variable Speed,"Rp 1,18 Milyar*",Bensin,E-CVT,4,1798 cc,4,DOHC,MPFI,97 hp,142 Nm
+toyota,rush,g-at,4-Speed,"Rp 265,15 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,rush,g-mt,5-Speed,"Rp 255,15 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,rush,trd-sportivo-at,4-Speed,"Rp 276,55 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,rush,trd-sportivo-mt,5-Speed,"Rp 266,55 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,EFI,103 hp,136 Nm
+toyota,sienta,g-cvt,Variable Speed,"Rp 275,75 Juta*",Bensin,CVT,4,1496 cc,4,DOHC,MPFI,109 hp,143 Nm
+toyota,sienta,g-mt,5-Speed,"Rp 257,75 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,MPFI,109 hp,143 Nm
+toyota,sienta,q-cvt,Variable Speed,"Rp 311,55 Juta*",Bensin,CVT,4,1496 cc,4,DOHC,MPFI,109 hp,143 Nm
+toyota,sienta,v-cvt,Variable Speed,"Rp 290,75 Juta*",Bensin,CVT,4,1496 cc,4,DOHC,MPFI,109 hp,143 Nm
+toyota,sienta,v-mt,5-Speed,"Rp 272,75 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,MPFI,109 hp,143 Nm
+toyota,supra,3-0l,8-Speed,"Rp 678,05 Juta*",Bensin,Otomatis,6,2998 cc,4,DOHC,Direct Injection,335 hp,495 Nm
+toyota,vellfire,2-5-g-at,Variable Speed,Rp 884 Juta*,Bensin,CVT,4,2494 cc,4,DOHC,EFI,178 hp,234 Nm
+toyota,venturer,2-0-at,5-Speed,"Rp 443,6 Juta*",Bensin,Otomatis,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,venturer,2-0-mt,6-Speed,"Rp 423,3 Juta*",Bensin,Manual,4,1998 cc,4,DOHC,EFI,137 hp,190 Nm
+toyota,venturer,2-4-at,5-Speed,"Rp 482,6 Juta*",Diesel,Otomatis,4,2393 cc,4,DOHC,CRDi,147 hp,360 Nm
+toyota,venturer,2-4-mt,6-Speed,Rp 461 Juta*,Diesel,Manual,4,2393 cc,4,DOHC,CRDi,147 hp,342 Nm
+toyota,vios,e-cvt,7-Speed,"Rp 486,5 Juta*",Bensin,CVT,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
+toyota,vios,g-cvt,7-Speed,"Rp 508,1 Juta*",Bensin,CVT,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
+toyota,vios,g-mt,5-Speed,"Rp 586,2 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
+toyota,voxy,cvt,Variable Speed,"Rp 2,15 Milyar*",Bensin,CVT,4,1987 cc,4,DOHC,EFI,150 hp,193 Nm
+toyota,yaris,g-grade-cvt,7-Speed,"Rp 270,25 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
+toyota,yaris,g-grade-mt,5-Speed,"Rp 259,25 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
+toyota,yaris,trd-sportivo-cvt,7-Speed,"Rp 291,45 Juta*",Bensin,Otomatis,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
+toyota,yaris,trd-sportivo-mt,5-Speed,"Rp 279,65 Juta*",Bensin,Manual,4,1496 cc,4,DOHC,Fuel Injection,106 hp,140 Nm
