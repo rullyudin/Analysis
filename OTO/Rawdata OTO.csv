@@ -1005,1087 +1005,1261 @@ toyota,prius-phev,1-8l,Tipe Penggerak Listrik,Permanent Magnet AC Synchronous Mo
 toyota,prius-phev,1-8l,Secondary Engine Fuel Type,Listrik,5.0
 toyota,prius-phev,1-8l,Tipe Baterai,Lithium-ion,5.0
 toyota,prius-phev,1-8l,Kapasitas Baterai,8.8 kWh,5.0
-daihatsu,terios,x-mt,Kapasitas mesin,1496 cc,1
-daihatsu,terios,x-mt,Tenaga,103 hp,1
-daihatsu,terios,x-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,x-mt,Konsumsi BBM dalam kota (kmpl),10.5 kmpl,1
-daihatsu,terios,x-mt,Torsi,136 Nm,1
-daihatsu,terios,x-mt,Konsumsi BBM Tol,14.5 kmpl,1
-daihatsu,terios,x-mt,Girboks,5-Speed,4
-daihatsu,terios,x-mt,Jenis Transmisi,Manual,4
-daihatsu,terios,x-mt,Jumlah Silinder,4,5
-daihatsu,terios,x-mt,Katup per Silinder,4,5
-daihatsu,terios,x-mt,Konfigurasi Katup,DOHC,5
-daihatsu,terios,x-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,x-mt,Mesin,1.5 L,5
-daihatsu,terios,x-at-deluxe,Kapasitas mesin,1496 cc,1
-daihatsu,terios,x-at-deluxe,Tenaga,103 hp,1
-daihatsu,terios,x-at-deluxe,Konsumsi BBM dalam kota (kmpl),10 kmpl,1
-daihatsu,terios,x-at-deluxe,Konsumsi BBM Tol,14.5 kmpl,1
-daihatsu,terios,x-at-deluxe,Torsi,136 Nm,1
-daihatsu,terios,x-at-deluxe,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,x-at-deluxe,Girboks,4-Speed,4
-daihatsu,terios,x-at-deluxe,Jenis Transmisi,Otomatis,4
-daihatsu,terios,x-at-deluxe,Jumlah Silinder,4,5
-daihatsu,terios,x-at-deluxe,Katup per Silinder,4,5
-daihatsu,terios,x-at-deluxe,Konfigurasi Katup,DOHC,5
-daihatsu,terios,x-at-deluxe,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,x-at-deluxe,Mesin,1.5 L,5
-daihatsu,terios,r-mt,Kapasitas mesin,1496 cc,1
-daihatsu,terios,r-mt,Tenaga,103 hp,1
-daihatsu,terios,r-mt,Konsumsi BBM Tol,14.7 kmpl,1
-daihatsu,terios,r-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,r-mt,Torsi,136 Nm,1
-daihatsu,terios,r-mt,Konsumsi BBM dalam kota (kmpl),10.3 kmpl,1
-daihatsu,terios,r-mt,Girboks,5-Speed,4
-daihatsu,terios,r-mt,Jenis Transmisi,Manual,4
-daihatsu,terios,r-mt,Jumlah Silinder,4,5
-daihatsu,terios,r-mt,Katup per Silinder,4,5
-daihatsu,terios,r-mt,Konfigurasi Katup,DOHC,5
-daihatsu,terios,r-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,r-mt,Mesin,1.5 L,5
-daihatsu,terios,r-at,Kapasitas mesin,1496 cc,1
-daihatsu,terios,r-at,Tenaga,103 hp,1
-daihatsu,terios,r-at,Konsumsi BBM Tol,14.5 kmpl,1
-daihatsu,terios,r-at,Konsumsi BBM dalam kota (kmpl),10 kmpl,1
-daihatsu,terios,r-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,r-at,Torsi,136 Nm,1
-daihatsu,terios,r-at,Girboks,4-Speed,4
-daihatsu,terios,r-at,Jenis Transmisi,Otomatis,4
-daihatsu,terios,r-at,Jumlah Silinder,4,5
-daihatsu,terios,r-at,Katup per Silinder,4,5
-daihatsu,terios,r-at,Konfigurasi Katup,DOHC,5
-daihatsu,terios,r-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,r-at,Mesin,1.5 L,5
-daihatsu,terios,x-mt-deluxe,Kapasitas mesin,1496 cc,1
-daihatsu,terios,x-mt-deluxe,Tenaga,103 hp,1
-daihatsu,terios,x-mt-deluxe,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,x-mt-deluxe,Konsumsi BBM Tol,14.7 kmpl,1
-daihatsu,terios,x-mt-deluxe,Torsi,136 Nm,1
-daihatsu,terios,x-mt-deluxe,Konsumsi BBM dalam kota (kmpl),10.2 kmpl,1
-daihatsu,terios,x-mt-deluxe,Girboks,5-Speed,4
-daihatsu,terios,x-mt-deluxe,Jenis Transmisi,Manual,4
-daihatsu,terios,x-mt-deluxe,Jumlah Silinder,4,5
-daihatsu,terios,x-mt-deluxe,Katup per Silinder,4,5
-daihatsu,terios,x-mt-deluxe,Konfigurasi Katup,DOHC,5
-daihatsu,terios,x-mt-deluxe,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,x-mt-deluxe,Mesin,1.5 L,5
-daihatsu,terios,r-mt-deluxe,Kapasitas mesin,1496 cc,1
-daihatsu,terios,r-mt-deluxe,Tenaga,103 hp,1
-daihatsu,terios,r-mt-deluxe,Konsumsi BBM Tol,14.7 kmpl,1
-daihatsu,terios,r-mt-deluxe,Torsi,136 Nm,1
-daihatsu,terios,r-mt-deluxe,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,r-mt-deluxe,Konsumsi BBM dalam kota (kmpl),10.3 kmpl,1
-daihatsu,terios,r-mt-deluxe,Girboks,5-Speed,4
-daihatsu,terios,r-mt-deluxe,Jenis Transmisi,Manual,4
-daihatsu,terios,r-mt-deluxe,Jumlah Silinder,4,5
-daihatsu,terios,r-mt-deluxe,Katup per Silinder,4,5
-daihatsu,terios,r-mt-deluxe,Konfigurasi Katup,DOHC,5
-daihatsu,terios,r-mt-deluxe,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,r-mt-deluxe,Mesin,1.5 L,5
-daihatsu,terios,r-at-deluxe,Kapasitas mesin,1496 cc,1
-daihatsu,terios,r-at-deluxe,Tenaga,103 hp,1
-daihatsu,terios,r-at-deluxe,Konsumsi BBM dalam kota (kmpl),10 kmpl,1
-daihatsu,terios,r-at-deluxe,Konsumsi BBM Tol,14.7 kmpl,1
-daihatsu,terios,r-at-deluxe,Jenis Bahan Bakar,Bensin,1
-daihatsu,terios,r-at-deluxe,Torsi,136 Nm,1
-daihatsu,terios,r-at-deluxe,Girboks,4-Speed,4
-daihatsu,terios,r-at-deluxe,Jenis Transmisi,Otomatis,4
-daihatsu,terios,r-at-deluxe,Jumlah Silinder,4,5
-daihatsu,terios,r-at-deluxe,Katup per Silinder,4,5
-daihatsu,terios,r-at-deluxe,Konfigurasi Katup,DOHC,5
-daihatsu,terios,r-at-deluxe,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,terios,r-at-deluxe,Mesin,1.5 L,5
-daihatsu,ayla,1-0l-d-mt,Kapasitas mesin,998 cc,1
-daihatsu,ayla,1-0l-d-mt,Tenaga,64 hp,1
-daihatsu,ayla,1-0l-d-mt,Torsi,86 Nm,1
-daihatsu,ayla,1-0l-d-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-0l-d-mt,Girboks,5-Speed,4
-daihatsu,ayla,1-0l-d-mt,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-0l-d-mt,Jenis penggerak,FWD,4
-daihatsu,ayla,1-0l-d-mt,Jumlah Silinder,3,5
-daihatsu,ayla,1-0l-d-mt,Katup per Silinder,4,5
-daihatsu,ayla,1-0l-d-mt,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-0l-d-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-0l-d-mt,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5
-daihatsu,ayla,1-0l-x-mt,Kapasitas mesin,998 cc,1
-daihatsu,ayla,1-0l-x-mt,Tenaga,64 hp,1
-daihatsu,ayla,1-0l-x-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-0l-x-mt,Torsi,86 Nm,1
-daihatsu,ayla,1-0l-x-mt,Girboks,5-Speed,4
-daihatsu,ayla,1-0l-x-mt,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-0l-x-mt,Jenis penggerak,FWD,4
-daihatsu,ayla,1-0l-x-mt,Jumlah Silinder,3,5
-daihatsu,ayla,1-0l-x-mt,Katup per Silinder,4,5
-daihatsu,ayla,1-0l-x-mt,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-0l-x-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-0l-x-mt,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5
-daihatsu,ayla,1-0l-x-at,Kapasitas mesin,998 cc,1
-daihatsu,ayla,1-0l-x-at,Tenaga,64 hp,1
-daihatsu,ayla,1-0l-x-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-0l-x-at,Torsi,86 Nm,1
-daihatsu,ayla,1-0l-x-at,Girboks,4-Speed,4
-daihatsu,ayla,1-0l-x-at,Jenis Transmisi,Otomatis,4
-daihatsu,ayla,1-0l-x-at,Jenis penggerak,FWD,4
-daihatsu,ayla,1-0l-x-at,Jumlah Silinder,3,5
-daihatsu,ayla,1-0l-x-at,Katup per Silinder,4,5
-daihatsu,ayla,1-0l-x-at,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-0l-x-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-0l-x-at,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5
-daihatsu,ayla,1-2l-x-mt,Kapasitas mesin,1197 cc,1
-daihatsu,ayla,1-2l-x-mt,Tenaga,87 hp,1
-daihatsu,ayla,1-2l-x-mt,Torsi,108 Nm,1
-daihatsu,ayla,1-2l-x-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-2l-x-mt,Girboks,5-Speed,4
-daihatsu,ayla,1-2l-x-mt,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-2l-x-mt,Jenis penggerak,FWD,4
-daihatsu,ayla,1-2l-x-mt,Jumlah Silinder,4,5
-daihatsu,ayla,1-2l-x-mt,Katup per Silinder,4,5
-daihatsu,ayla,1-2l-x-mt,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-2l-x-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-2l-x-mt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5
-daihatsu,ayla,1-2l-x-at,Kapasitas mesin,1197 cc,1
-daihatsu,ayla,1-2l-x-at,Tenaga,87 hp,1
-daihatsu,ayla,1-2l-x-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-2l-x-at,Torsi,108 Nm,1
-daihatsu,ayla,1-2l-x-at,Girboks,4-Speed,4
-daihatsu,ayla,1-2l-x-at,Jenis Transmisi,Otomatis,4
-daihatsu,ayla,1-2l-x-at,Jenis penggerak,FWD,4
-daihatsu,ayla,1-2l-x-at,Jumlah Silinder,4,5
-daihatsu,ayla,1-2l-x-at,Katup per Silinder,4,5
-daihatsu,ayla,1-2l-x-at,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-2l-x-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-2l-x-at,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5
-daihatsu,ayla,1-2l-r-mt,Kapasitas mesin,1197 cc,1
-daihatsu,ayla,1-2l-r-mt,Tenaga,87 hp,1
-daihatsu,ayla,1-2l-r-mt,Torsi,108 Nm,1
-daihatsu,ayla,1-2l-r-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-2l-r-mt,Girboks,5-Speed,4
-daihatsu,ayla,1-2l-r-mt,Jenis penggerak,FWD,4
-daihatsu,ayla,1-2l-r-mt,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-2l-r-mt,Jumlah Silinder,4,5
-daihatsu,ayla,1-2l-r-mt,Katup per Silinder,4,5
-daihatsu,ayla,1-2l-r-mt,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-2l-r-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-2l-r-mt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5
-daihatsu,ayla,1-2l-r-at,Kapasitas mesin,1197 cc,1
-daihatsu,ayla,1-2l-r-at,Tenaga,87 hp,1
-daihatsu,ayla,1-2l-r-at,Torsi,108 Nm,1
-daihatsu,ayla,1-2l-r-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-2l-r-at,Girboks,4-Speed,4
-daihatsu,ayla,1-2l-r-at,Jenis Transmisi,Otomatis,4
-daihatsu,ayla,1-2l-r-at,Jenis penggerak,FWD,4
-daihatsu,ayla,1-2l-r-at,Jumlah Silinder,4,5
-daihatsu,ayla,1-2l-r-at,Katup per Silinder,4,5
-daihatsu,ayla,1-2l-r-at,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-2l-r-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-2l-r-at,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5
-daihatsu,ayla,1-0l-d-plus-mt,Kapasitas mesin,998 cc,1
-daihatsu,ayla,1-0l-d-plus-mt,Tenaga,64 hp,1
-daihatsu,ayla,1-0l-d-plus-mt,Torsi,86 Nm,1
-daihatsu,ayla,1-0l-d-plus-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-0l-d-plus-mt,Girboks,5-Speed,4
-daihatsu,ayla,1-0l-d-plus-mt,Jenis penggerak,FWD,4
-daihatsu,ayla,1-0l-d-plus-mt,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-0l-d-plus-mt,Jumlah Silinder,3,5
-daihatsu,ayla,1-0l-d-plus-mt,Katup per Silinder,4,5
-daihatsu,ayla,1-0l-d-plus-mt,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-0l-d-plus-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-0l-d-plus-mt,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5
-daihatsu,ayla,1-0l-x-mt-dlx,Kapasitas mesin,998 cc,1
-daihatsu,ayla,1-0l-x-mt-dlx,Tenaga,64 hp,1
-daihatsu,ayla,1-0l-x-mt-dlx,Torsi,86 Nm,1
-daihatsu,ayla,1-0l-x-mt-dlx,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-0l-x-mt-dlx,Girboks,5-Speed,4
-daihatsu,ayla,1-0l-x-mt-dlx,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-0l-x-mt-dlx,Jenis penggerak,FWD,4
-daihatsu,ayla,1-0l-x-mt-dlx,Jumlah Silinder,3,5
-daihatsu,ayla,1-0l-x-mt-dlx,Katup per Silinder,4,5
-daihatsu,ayla,1-0l-x-mt-dlx,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-0l-x-mt-dlx,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-0l-x-mt-dlx,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5
-daihatsu,ayla,1-0l-x-at-dlx,Kapasitas mesin,998 cc,1
-daihatsu,ayla,1-0l-x-at-dlx,Tenaga,64 hp,1
-daihatsu,ayla,1-0l-x-at-dlx,Torsi,86 Nm,1
-daihatsu,ayla,1-0l-x-at-dlx,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-0l-x-at-dlx,Girboks,4-Speed,4
-daihatsu,ayla,1-0l-x-at-dlx,Jenis penggerak,FWD,4
-daihatsu,ayla,1-0l-x-at-dlx,Jenis Transmisi,Otomatis,4
-daihatsu,ayla,1-0l-x-at-dlx,Jumlah Silinder,3,5
-daihatsu,ayla,1-0l-x-at-dlx,Katup per Silinder,4,5
-daihatsu,ayla,1-0l-x-at-dlx,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-0l-x-at-dlx,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-0l-x-at-dlx,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5
-daihatsu,ayla,1-2l-r-mt-dlx,Kapasitas mesin,1197 cc,1
-daihatsu,ayla,1-2l-r-mt-dlx,Tenaga,87 hp,1
-daihatsu,ayla,1-2l-r-mt-dlx,Torsi,108 Nm,1
-daihatsu,ayla,1-2l-r-mt-dlx,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-2l-r-mt-dlx,Girboks,5-Speed,4
-daihatsu,ayla,1-2l-r-mt-dlx,Jenis penggerak,FWD,4
-daihatsu,ayla,1-2l-r-mt-dlx,Jenis Transmisi,Manual,4
-daihatsu,ayla,1-2l-r-mt-dlx,Jumlah Silinder,4,5
-daihatsu,ayla,1-2l-r-mt-dlx,Katup per Silinder,4,5
-daihatsu,ayla,1-2l-r-mt-dlx,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-2l-r-mt-dlx,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-2l-r-mt-dlx,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5
-daihatsu,ayla,1-2l-r-at-dlx,Kapasitas mesin,1197 cc,1
-daihatsu,ayla,1-2l-r-at-dlx,Tenaga,87 hp,1
-daihatsu,ayla,1-2l-r-at-dlx,Torsi,108 Nm,1
-daihatsu,ayla,1-2l-r-at-dlx,Jenis Bahan Bakar,Bensin,1
-daihatsu,ayla,1-2l-r-at-dlx,Girboks,4-Speed,4
-daihatsu,ayla,1-2l-r-at-dlx,Jenis Transmisi,Otomatis,4
-daihatsu,ayla,1-2l-r-at-dlx,Jenis penggerak,FWD,4
-daihatsu,ayla,1-2l-r-at-dlx,Jumlah Silinder,4,5
-daihatsu,ayla,1-2l-r-at-dlx,Katup per Silinder,4,5
-daihatsu,ayla,1-2l-r-at-dlx,Konfigurasi Katup,DOHC,5
-daihatsu,ayla,1-2l-r-at-dlx,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,ayla,1-2l-r-at-dlx,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5
-daihatsu,sirion,1-3l-at,Kapasitas mesin,1329 cc,1
-daihatsu,sirion,1-3l-at,Tenaga,94 hp,1
-daihatsu,sirion,1-3l-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,sirion,1-3l-at,Torsi,120 Nm,1
-daihatsu,sirion,1-3l-at,Girboks,4-Speed,4
-daihatsu,sirion,1-3l-at,Jenis penggerak,RWD,4
-daihatsu,sirion,1-3l-at,Jenis Transmisi,Otomatis,4
-daihatsu,sirion,1-3l-at,Jumlah Silinder,4,5
-daihatsu,sirion,1-3l-at,Katup per Silinder,4,5
-daihatsu,sirion,1-3l-at,Konfigurasi Katup,DOHC,5
-daihatsu,sirion,1-3l-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sirion,1-3l-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5
-daihatsu,sirion,1-3l-mt,Kapasitas mesin,1329 cc,1
-daihatsu,sirion,1-3l-mt,Tenaga,94 hp,1
-daihatsu,sirion,1-3l-mt,Torsi,120 Nm,1
-daihatsu,sirion,1-3l-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sirion,1-3l-mt,Girboks,5-Speed,4
-daihatsu,sirion,1-3l-mt,Jenis penggerak,RWD,4
-daihatsu,sirion,1-3l-mt,Jenis Transmisi,Manual,4
-daihatsu,sirion,1-3l-mt,Jumlah Silinder,4,5
-daihatsu,sirion,1-3l-mt,Katup per Silinder,4,5
-daihatsu,sirion,1-3l-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sirion,1-3l-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sirion,1-3l-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5
-daihatsu,sigra,1-0-d-mt,Kapasitas mesin,998 cc,1
-daihatsu,sigra,1-0-d-mt,Tenaga,66 hp,1
-daihatsu,sigra,1-0-d-mt,Torsi,89 Nm,1
-daihatsu,sigra,1-0-d-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-0-d-mt,Girboks,5-Speed,4
-daihatsu,sigra,1-0-d-mt,Jenis Transmisi,Manual,4
-daihatsu,sigra,1-0-d-mt,Jumlah Silinder,3,5
-daihatsu,sigra,1-0-d-mt,Katup per Silinder,4,5
-daihatsu,sigra,1-0-d-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-0-d-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-0-d-mt,Mesin,"1.0L Petrol Engine, Inline 3 Cylinder 12 Valve DOHC VVT-i",5
-daihatsu,sigra,1-2-x-at,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-x-at,Tenaga,87 hp,1
-daihatsu,sigra,1-2-x-at,Torsi,108 Nm,1
-daihatsu,sigra,1-2-x-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-x-at,Girboks,4-Speed,4
-daihatsu,sigra,1-2-x-at,Jenis Transmisi,Otomatis,4
-daihatsu,sigra,1-2-x-at,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-x-at,Katup per Silinder,4,5
-daihatsu,sigra,1-2-x-at,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-x-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-x-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-0-m-mt,Kapasitas mesin,998 cc,1
-daihatsu,sigra,1-0-m-mt,Tenaga,66 hp,1
-daihatsu,sigra,1-0-m-mt,Torsi,89 Nm,1
-daihatsu,sigra,1-0-m-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-0-m-mt,Girboks,5-Speed,4
-daihatsu,sigra,1-0-m-mt,Jenis Transmisi,Manual,4
-daihatsu,sigra,1-0-m-mt,Jumlah Silinder,3,5
-daihatsu,sigra,1-0-m-mt,Katup per Silinder,4,5
-daihatsu,sigra,1-0-m-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-0-m-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-0-m-mt,Mesin,"1.0L Petrol Engine, Inline 3 Cylinder 12 Valve DOHC VVT-i",5
-daihatsu,sigra,1-2-x-mt,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-x-mt,Tenaga,87 hp,1
-daihatsu,sigra,1-2-x-mt,Torsi,108 Nm,1
-daihatsu,sigra,1-2-x-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-x-mt,Girboks,5-Speed,4
-daihatsu,sigra,1-2-x-mt,Jenis Transmisi,Manual,4
-daihatsu,sigra,1-2-x-mt,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-x-mt,Katup per Silinder,4,5
-daihatsu,sigra,1-2-x-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-x-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-x-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-2-r-mt,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-r-mt,Tenaga,87 hp,1
-daihatsu,sigra,1-2-r-mt,Torsi,108 Nm,1
-daihatsu,sigra,1-2-r-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-r-mt,Girboks,5-Speed,4
-daihatsu,sigra,1-2-r-mt,Jenis Transmisi,Manual,4
-daihatsu,sigra,1-2-r-mt,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-r-mt,Katup per Silinder,4,5
-daihatsu,sigra,1-2-r-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-r-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-r-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-2-r-at,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-r-at,Tenaga,87 hp,1
-daihatsu,sigra,1-2-r-at,Torsi,108 Nm,1
-daihatsu,sigra,1-2-r-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-r-at,Girboks,4-Speed,4
-daihatsu,sigra,1-2-r-at,Jenis Transmisi,Otomatis,4
-daihatsu,sigra,1-2-r-at,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-r-at,Katup per Silinder,4,5
-daihatsu,sigra,1-2-r-at,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-r-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-r-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-2-x-dlx-mt,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-x-dlx-mt,Tenaga,87 hp,1
-daihatsu,sigra,1-2-x-dlx-mt,Torsi,108 Nm,1
-daihatsu,sigra,1-2-x-dlx-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-x-dlx-mt,Girboks,5-Speed,4
-daihatsu,sigra,1-2-x-dlx-mt,Jenis Transmisi,Manual,4
-daihatsu,sigra,1-2-x-dlx-mt,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-x-dlx-mt,Katup per Silinder,4,5
-daihatsu,sigra,1-2-x-dlx-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-x-dlx-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-x-dlx-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-2-x-dlx-at,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-x-dlx-at,Tenaga,87 hp,1
-daihatsu,sigra,1-2-x-dlx-at,Torsi,108 Nm,1
-daihatsu,sigra,1-2-x-dlx-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-x-dlx-at,Girboks,4-Speed,4
-daihatsu,sigra,1-2-x-dlx-at,Jenis Transmisi,Otomatis,4
-daihatsu,sigra,1-2-x-dlx-at,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-x-dlx-at,Katup per Silinder,4,5
-daihatsu,sigra,1-2-x-dlx-at,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-x-dlx-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-x-dlx-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-2-r-dlx-mt,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-r-dlx-mt,Tenaga,87 hp,1
-daihatsu,sigra,1-2-r-dlx-mt,Torsi,108 Nm,1
-daihatsu,sigra,1-2-r-dlx-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-r-dlx-mt,Girboks,5-Speed,4
-daihatsu,sigra,1-2-r-dlx-mt,Jenis Transmisi,Manual,4
-daihatsu,sigra,1-2-r-dlx-mt,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-r-dlx-mt,Katup per Silinder,4,5
-daihatsu,sigra,1-2-r-dlx-mt,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-r-dlx-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-r-dlx-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,sigra,1-2-r-dlx-at,Kapasitas mesin,1197 cc,1
-daihatsu,sigra,1-2-r-dlx-at,Tenaga,87 hp,1
-daihatsu,sigra,1-2-r-dlx-at,Torsi,108 Nm,1
-daihatsu,sigra,1-2-r-dlx-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,sigra,1-2-r-dlx-at,Girboks,4-Speed,4
-daihatsu,sigra,1-2-r-dlx-at,Jenis Transmisi,Otomatis,4
-daihatsu,sigra,1-2-r-dlx-at,Jumlah Silinder,4,5
-daihatsu,sigra,1-2-r-dlx-at,Katup per Silinder,4,5
-daihatsu,sigra,1-2-r-dlx-at,Konfigurasi Katup,DOHC,5
-daihatsu,sigra,1-2-r-dlx-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,sigra,1-2-r-dlx-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-x-deluxe-at,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-x-deluxe-at,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-x-deluxe-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-x-deluxe-at,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-x-deluxe-at,Girboks,4-Speed,4
-daihatsu,grand-xenia,1-3-x-deluxe-at,Jenis Transmisi,Otomatis,4
-daihatsu,grand-xenia,1-3-x-deluxe-at,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-x-deluxe-at,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-x-deluxe-at,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-x-deluxe-at,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-x-deluxe-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-x-deluxe-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Girboks,5-Speed,4
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Jenis Transmisi,Manual,4
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-r-deluxe-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-r-deluxe-at,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-r-deluxe-at,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-r-deluxe-at,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-r-deluxe-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-r-deluxe-at,Girboks,4-Speed,4
-daihatsu,grand-xenia,1-3-r-deluxe-at,Jenis Transmisi,Otomatis,4
-daihatsu,grand-xenia,1-3-r-deluxe-at,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-r-deluxe-at,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-r-deluxe-at,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-r-deluxe-at,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-r-deluxe-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-r-deluxe-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-x-mt,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-x-mt,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-x-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-x-mt,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-x-mt,Girboks,5-Speed,4
-daihatsu,grand-xenia,1-3-x-mt,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-x-mt,Jenis Transmisi,Manual,4
-daihatsu,grand-xenia,1-3-x-mt,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-x-mt,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-x-mt,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-x-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-x-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-x-at,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-x-at,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-x-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-x-at,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-x-at,Girboks,4-Speed,4
-daihatsu,grand-xenia,1-3-x-at,Jenis Transmisi,Otomatis,4
-daihatsu,grand-xenia,1-3-x-at,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-x-at,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-x-at,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-x-at,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-x-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-x-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-r-mt,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-r-mt,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-r-mt,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-r-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-r-mt,Girboks,5-Speed,4
-daihatsu,grand-xenia,1-3-r-mt,Jenis Transmisi,Manual,4
-daihatsu,grand-xenia,1-3-r-mt,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-r-mt,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-r-mt,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-r-mt,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-r-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-r-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-r-at,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-r-at,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-r-at,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-r-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-r-at,Girboks,4-Speed,4
-daihatsu,grand-xenia,1-3-r-at,Jenis Transmisi,Otomatis,4
-daihatsu,grand-xenia,1-3-r-at,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-r-at,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-r-at,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-r-at,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-r-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-r-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Kapasitas mesin,1496 cc,1
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Tenaga,103 hp,1
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Torsi,136 Nm,1
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Girboks,5-Speed,4
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Jenis Transmisi,Manual,4
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-5-r-deluxe-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-5-r-deluxe-at,Kapasitas mesin,1496 cc,1
-daihatsu,grand-xenia,1-5-r-deluxe-at,Tenaga,103 hp,1
-daihatsu,grand-xenia,1-5-r-deluxe-at,Torsi,136 Nm,1
-daihatsu,grand-xenia,1-5-r-deluxe-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-5-r-deluxe-at,Girboks,4-Speed,4
-daihatsu,grand-xenia,1-5-r-deluxe-at,Jenis Transmisi,Otomatis,4
-daihatsu,grand-xenia,1-5-r-deluxe-at,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-5-r-deluxe-at,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-5-r-deluxe-at,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-5-r-deluxe-at,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-5-r-deluxe-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-5-r-deluxe-at,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Kapasitas mesin,1329 cc,1
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Tenaga,96 hp,1
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Torsi,121 Nm,1
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Girboks,5-Speed,4
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Jenis penggerak,FWD,4
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Jenis Transmisi,Manual,4
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Jumlah Silinder,4,5
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Katup per Silinder,4,5
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Konfigurasi Katup,DOHC,5
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,grand-xenia,1-3-x-deluxe-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5
-daihatsu,luxio,1-5-d-mt,Kapasitas mesin,1495 cc,1
-daihatsu,luxio,1-5-d-mt,Tenaga,96 hp,1
-daihatsu,luxio,1-5-d-mt,Konsumsi BBM dalam kota (kmpl),10 kmpl,1
-daihatsu,luxio,1-5-d-mt,Konsumsi BBM Tol,14 kmpl,1
-daihatsu,luxio,1-5-d-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,luxio,1-5-d-mt,Torsi,134 Nm,1
-daihatsu,luxio,1-5-d-mt,Girboks,5-Speed,4
-daihatsu,luxio,1-5-d-mt,Jenis Transmisi,Manual,4
-daihatsu,luxio,1-5-d-mt,Jumlah Silinder,4,5
-daihatsu,luxio,1-5-d-mt,Katup per Silinder,4,5
-daihatsu,luxio,1-5-d-mt,Konfigurasi Katup,DOHC,5
-daihatsu,luxio,1-5-d-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,luxio,1-5-x-mt,Kapasitas mesin,1495 cc,1
-daihatsu,luxio,1-5-x-mt,Tenaga,96 hp,1
-daihatsu,luxio,1-5-x-mt,Konsumsi BBM dalam kota (kmpl),10 kmpl,1
-daihatsu,luxio,1-5-x-mt,Jenis Bahan Bakar,Bensin,1
-daihatsu,luxio,1-5-x-mt,Torsi,134 Nm,1
-daihatsu,luxio,1-5-x-mt,Konsumsi BBM Tol,13 kmpl,1
-daihatsu,luxio,1-5-x-mt,Girboks,5-Speed,4
-daihatsu,luxio,1-5-x-mt,Jenis Transmisi,Manual,4
-daihatsu,luxio,1-5-x-mt,Jumlah Silinder,4,5
-daihatsu,luxio,1-5-x-mt,Katup per Silinder,4,5
-daihatsu,luxio,1-5-x-mt,Konfigurasi Katup,DOHC,5
-daihatsu,luxio,1-5-x-mt,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,luxio,1-5-x-at,Kapasitas mesin,1495 cc,1
-daihatsu,luxio,1-5-x-at,Tenaga,96 hp,1
-daihatsu,luxio,1-5-x-at,Konsumsi BBM dalam kota (kmpl),10.1 kmpl,1
-daihatsu,luxio,1-5-x-at,Konsumsi BBM Tol,13.9 kmpl,1
-daihatsu,luxio,1-5-x-at,Jenis Bahan Bakar,Bensin,1
-daihatsu,luxio,1-5-x-at,Torsi,134 Nm,1
-daihatsu,luxio,1-5-x-at,Girboks,4-Speed,4
-daihatsu,luxio,1-5-x-at,Jenis Transmisi,Otomatis,4
-daihatsu,luxio,1-5-x-at,Jumlah Silinder,4,5
-daihatsu,luxio,1-5-x-at,Katup per Silinder,4,5
-daihatsu,luxio,1-5-x-at,Konfigurasi Katup,DOHC,5
-daihatsu,luxio,1-5-x-at,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,1-3-std,Kapasitas mesin,1298 cc,1
-daihatsu,gran-max-pu,1-3-std,Tenaga,87 hp,1
-daihatsu,gran-max-pu,1-3-std,Torsi,115 Nm,1
-daihatsu,gran-max-pu,1-3-std,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,1-3-std,Girboks,5-Speed,4
-daihatsu,gran-max-pu,1-3-std,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,1-3-std,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,1-3-std,Katup per Silinder,4,5
-daihatsu,gran-max-pu,1-3-std,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,1-3-std,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,1-5-std,Kapasitas mesin,1495 cc,1
-daihatsu,gran-max-pu,1-5-std,Tenaga,96 hp,1
-daihatsu,gran-max-pu,1-5-std,Torsi,134 Nm,1
-daihatsu,gran-max-pu,1-5-std,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,1-5-std,Girboks,5-Speed,4
-daihatsu,gran-max-pu,1-5-std,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,1-5-std,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,1-5-std,Katup per Silinder,4,5
-daihatsu,gran-max-pu,1-5-std,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,1-5-std,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,1-5-std-acaps,Kapasitas mesin,1495 cc,1
-daihatsu,gran-max-pu,1-5-std-acaps,Tenaga,96 hp,1
-daihatsu,gran-max-pu,1-5-std-acaps,Torsi,134 Nm,1
-daihatsu,gran-max-pu,1-5-std-acaps,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,1-5-std-acaps,Girboks,5-Speed,4
-daihatsu,gran-max-pu,1-5-std-acaps,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,1-5-std-acaps,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,1-5-std-acaps,Katup per Silinder,4,5
-daihatsu,gran-max-pu,1-5-std-acaps,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,1-5-std-acaps,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,box-1-5-sliding,Kapasitas mesin,1495 cc,1
-daihatsu,gran-max-pu,box-1-5-sliding,Tenaga,96 hp,1
-daihatsu,gran-max-pu,box-1-5-sliding,Torsi,134 Nm,1
-daihatsu,gran-max-pu,box-1-5-sliding,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,box-1-5-sliding,Girboks,5-Speed,4
-daihatsu,gran-max-pu,box-1-5-sliding,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,box-1-5-sliding,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,box-1-5-sliding,Katup per Silinder,4,5
-daihatsu,gran-max-pu,box-1-5-sliding,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,box-1-5-sliding,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,1-3-3w,Kapasitas mesin,1298 cc,1
-daihatsu,gran-max-pu,1-3-3w,Tenaga,87 hp,1
-daihatsu,gran-max-pu,1-3-3w,Torsi,115 Nm,1
-daihatsu,gran-max-pu,1-3-3w,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,1-3-3w,Girboks,5-Speed,4
-daihatsu,gran-max-pu,1-3-3w,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,1-3-3w,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,1-3-3w,Katup per Silinder,4,5
-daihatsu,gran-max-pu,1-3-3w,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,1-3-3w,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,1-5-3w,Kapasitas mesin,1495 cc,1
-daihatsu,gran-max-pu,1-5-3w,Tenaga,96 hp,1
-daihatsu,gran-max-pu,1-5-3w,Torsi,134 Nm,1
-daihatsu,gran-max-pu,1-5-3w,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,1-5-3w,Girboks,5-Speed,4
-daihatsu,gran-max-pu,1-5-3w,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,1-5-3w,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,1-5-3w,Katup per Silinder,4,5
-daihatsu,gran-max-pu,1-5-3w,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,1-5-3w,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,box-1-3-sliding,Kapasitas mesin,1298 cc,1
-daihatsu,gran-max-pu,box-1-3-sliding,Tenaga,87 hp,1
-daihatsu,gran-max-pu,box-1-3-sliding,Torsi,115 Nm,1
-daihatsu,gran-max-pu,box-1-3-sliding,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,box-1-3-sliding,Girboks,5-Speed,4
-daihatsu,gran-max-pu,box-1-3-sliding,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,box-1-3-sliding,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,box-1-3-sliding,Katup per Silinder,4,5
-daihatsu,gran-max-pu,box-1-3-sliding,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,box-1-3-sliding,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-pu,box-1-5,Kapasitas mesin,1495 cc,1
-daihatsu,gran-max-pu,box-1-5,Tenaga,96 hp,1
-daihatsu,gran-max-pu,box-1-5,Torsi,134 Nm,1
-daihatsu,gran-max-pu,box-1-5,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-pu,box-1-5,Girboks,5-Speed,4
-daihatsu,gran-max-pu,box-1-5,Jenis Transmisi,Manual,4
-daihatsu,gran-max-pu,box-1-5,Jumlah Silinder,4,5
-daihatsu,gran-max-pu,box-1-5,Katup per Silinder,4,5
-daihatsu,gran-max-pu,box-1-5,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-pu,box-1-5,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-mb,1-3-d-ff-fh,Kapasitas mesin,1298 cc,1
-daihatsu,gran-max-mb,1-3-d-ff-fh,Tenaga,87 hp,1
-daihatsu,gran-max-mb,1-3-d-ff-fh,Torsi,115 Nm,1
-daihatsu,gran-max-mb,1-3-d-ff-fh,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-mb,1-3-d-ff-fh,Girboks,5-Speed,4
-daihatsu,gran-max-mb,1-3-d-ff-fh,Jenis Transmisi,Manual,4
-daihatsu,gran-max-mb,1-3-d-ff-fh,Jenis penggerak,FWD,4
-daihatsu,gran-max-mb,1-3-d-ff-fh,Jumlah Silinder,4,5
-daihatsu,gran-max-mb,1-3-d-ff-fh,Katup per Silinder,4,5
-daihatsu,gran-max-mb,1-3-d-ff-fh,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-mb,1-3-d-ff-fh,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-mb,1-3-d-ff-fh,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5
-daihatsu,gran-max-mb,1-3-d-fh,Kapasitas mesin,1298 cc,1
-daihatsu,gran-max-mb,1-3-d-fh,Tenaga,87 hp,1
-daihatsu,gran-max-mb,1-3-d-fh,Torsi,115 Nm,1
-daihatsu,gran-max-mb,1-3-d-fh,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-mb,1-3-d-fh,Girboks,5-Speed,4
-daihatsu,gran-max-mb,1-3-d-fh,Jenis Transmisi,Manual,4
-daihatsu,gran-max-mb,1-3-d-fh,Jenis penggerak,FWD,4
-daihatsu,gran-max-mb,1-3-d-fh,Jumlah Silinder,4,5
-daihatsu,gran-max-mb,1-3-d-fh,Katup per Silinder,4,5
-daihatsu,gran-max-mb,1-3-d-fh,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-mb,1-3-d-fh,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-mb,1-3-d-fh,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5
-daihatsu,gran-max-mb,1-5-d-ps-fh,Kapasitas mesin,1495 cc,1
-daihatsu,gran-max-mb,1-5-d-ps-fh,Tenaga,96 hp,1
-daihatsu,gran-max-mb,1-5-d-ps-fh,Jenis Bahan Bakar,Bensin,1
-daihatsu,gran-max-mb,1-5-d-ps-fh,Torsi,134 Nm,1
-daihatsu,gran-max-mb,1-5-d-ps-fh,Girboks,5-Speed,4
-daihatsu,gran-max-mb,1-5-d-ps-fh,Jenis Transmisi,Manual,4
-daihatsu,gran-max-mb,1-5-d-ps-fh,Jenis penggerak,FWD,4
-daihatsu,gran-max-mb,1-5-d-ps-fh,Jumlah Silinder,4,5
-daihatsu,gran-max-mb,1-5-d-ps-fh,Katup per Silinder,4,5
-daihatsu,gran-max-mb,1-5-d-ps-fh,Konfigurasi Katup,DOHC,5
-daihatsu,gran-max-mb,1-5-d-ps-fh,Sistem Suplai Bahan Bakar,EFI,5
-daihatsu,gran-max-mb,1-5-d-ps-fh,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC",5
-honda,brio,satya-s,Kapasitas mesin,1199 cc,1
-honda,brio,satya-s,Tenaga,89 hp,1
-honda,brio,satya-s,Konsumsi BBM Tol,22.5 kmpl,1
-honda,brio,satya-s,Konsumsi BBM,20 kmpl,1
-honda,brio,satya-s,Jenis Bahan Bakar,Bensin,1
-honda,brio,satya-s,Torsi,110 Nm,1
-honda,brio,satya-s,Konsumsi BBM dalam kota (kmpl),14.2 kmpl,1
-honda,brio,satya-s,Girboks,5-Speed,4
-honda,brio,satya-s,Jenis Transmisi,Manual,4
-honda,brio,satya-s,Jenis penggerak,FWD,4
-honda,brio,satya-s,Jumlah Silinder,4,5
-honda,brio,satya-s,Katup per Silinder,4,5
-honda,brio,satya-s,Konfigurasi Katup,SOHC,5
-honda,brio,satya-s,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,brio,satya-s,Rasio Kompresi,10.1:1,5
-honda,brio,satya-s,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,brio,satya-e-cvt,Kapasitas mesin,1199 cc,1
-honda,brio,satya-e-cvt,Tenaga,89 hp,1
-honda,brio,satya-e-cvt,Konsumsi BBM,20 kmpl,1
-honda,brio,satya-e-cvt,Torsi,110 Nm,1
-honda,brio,satya-e-cvt,Jenis Bahan Bakar,Bensin,1
-honda,brio,satya-e-cvt,Girboks,Variable Speed,4
-honda,brio,satya-e-cvt,Jenis Transmisi,CVT,4
-honda,brio,satya-e-cvt,Jenis penggerak,FWD,4
-honda,brio,satya-e-cvt,Jumlah Silinder,4,5
-honda,brio,satya-e-cvt,Katup per Silinder,4,5
-honda,brio,satya-e-cvt,Konfigurasi Katup,SOHC,5
-honda,brio,satya-e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,brio,satya-e-cvt,Rasio Kompresi,10.1:1,5
-honda,brio,satya-e-cvt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,brio,satya-e,Kapasitas mesin,1199 cc,1
-honda,brio,satya-e,Tenaga,89 hp,1
-honda,brio,satya-e,Konsumsi BBM Tol,22.5 kmpl,1
-honda,brio,satya-e,Konsumsi BBM,20 kmpl,1
-honda,brio,satya-e,Jenis Bahan Bakar,Bensin,1
-honda,brio,satya-e,Torsi,110 Nm,1
-honda,brio,satya-e,Konsumsi BBM dalam kota (kmpl),14.2 kmpl,1
-honda,brio,satya-e,Girboks,5-Speed,4
-honda,brio,satya-e,Jenis Transmisi,Manual,4
-honda,brio,satya-e,Jenis penggerak,FWD,4
-honda,brio,satya-e,Jumlah Silinder,4,5
-honda,brio,satya-e,Katup per Silinder,4,5
-honda,brio,satya-e,Konfigurasi Katup,SOHC,5
-honda,brio,satya-e,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,brio,satya-e,Rasio Kompresi,10.1:1,5
-honda,brio,satya-e,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,brio,rs,Kapasitas mesin,1199 cc,1
-honda,brio,rs,Tenaga,89 hp,1
-honda,brio,rs,Konsumsi BBM,20 kmpl,1
-honda,brio,rs,Torsi,110 Nm,1
-honda,brio,rs,Jenis Bahan Bakar,Bensin,1
-honda,brio,rs,Girboks,5-Speed,4
-honda,brio,rs,Jenis penggerak,FWD,4
-honda,brio,rs,Jenis Transmisi,Manual,4
-honda,brio,rs,Jumlah Silinder,4,5
-honda,brio,rs,Katup per Silinder,4,5
-honda,brio,rs,Konfigurasi Katup,SOHC,5
-honda,brio,rs,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,brio,rs,Rasio Kompresi,10.1:1,5
-honda,brio,rs,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,brio,rs-cvt,Kapasitas mesin,1199 cc,1
-honda,brio,rs-cvt,Tenaga,89 hp,1
-honda,brio,rs-cvt,Konsumsi BBM,20 kmpl,1
-honda,brio,rs-cvt,Torsi,110 Nm,1
-honda,brio,rs-cvt,Jenis Bahan Bakar,Bensin,1
-honda,brio,rs-cvt,Girboks,Variable Speed,4
-honda,brio,rs-cvt,Jenis penggerak,FWD,4
-honda,brio,rs-cvt,Jenis Transmisi,CVT,4
-honda,brio,rs-cvt,Jumlah Silinder,4,5
-honda,brio,rs-cvt,Katup per Silinder,4,5
-honda,brio,rs-cvt,Konfigurasi Katup,SOHC,5
-honda,brio,rs-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,brio,rs-cvt,Rasio Kompresi,10.1:1,5
-honda,brio,rs-cvt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,hr-v,1-5l-s-cvt,Kapasitas mesin,1497 cc,1
-honda,hr-v,1-5l-s-cvt,Tenaga,118 hp,1
-honda,hr-v,1-5l-s-cvt,Jenis Bahan Bakar,Bensin,1
-honda,hr-v,1-5l-s-cvt,Torsi,145 Nm,1
-honda,hr-v,1-5l-s-cvt,Girboks,Variable Speed,4
-honda,hr-v,1-5l-s-cvt,Jenis Transmisi,CVT,4
-honda,hr-v,1-5l-s-cvt,Jumlah Silinder,4,5
-honda,hr-v,1-5l-s-cvt,Katup per Silinder,4,5
-honda,hr-v,1-5l-s-cvt,Konfigurasi Katup,SOHC,5
-honda,hr-v,1-5l-s-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,hr-v,1-5l-s-cvt,Rasio Kompresi,10.3:1,5
-honda,hr-v,1-5l-s-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,hr-v,1-5l-s,Kapasitas mesin,1497 cc,1
-honda,hr-v,1-5l-s,Tenaga,118 hp,1
-honda,hr-v,1-5l-s,Jenis Bahan Bakar,Bensin,1
-honda,hr-v,1-5l-s,Torsi,145 Nm,1
-honda,hr-v,1-5l-s,Girboks,6-Speed,4
-honda,hr-v,1-5l-s,Jenis Transmisi,Manual,4
-honda,hr-v,1-5l-s,Jumlah Silinder,4,5
-honda,hr-v,1-5l-s,Katup per Silinder,4,5
-honda,hr-v,1-5l-s,Konfigurasi Katup,SOHC,5
-honda,hr-v,1-5l-s,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,hr-v,1-5l-s,Rasio Kompresi,10.3:1,5
-honda,hr-v,1-5l-s,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,hr-v,1-5l-e-cvt,Kapasitas mesin,1497 cc,1
-honda,hr-v,1-5l-e-cvt,Tenaga,118 hp,1
-honda,hr-v,1-5l-e-cvt,Torsi,145 Nm,1
-honda,hr-v,1-5l-e-cvt,Jenis Bahan Bakar,Bensin,1
-honda,hr-v,1-5l-e-cvt,Girboks,Variable Speed,4
-honda,hr-v,1-5l-e-cvt,Jenis Transmisi,CVT,4
-honda,hr-v,1-5l-e-cvt,Jumlah Silinder,4,5
-honda,hr-v,1-5l-e-cvt,Katup per Silinder,4,5
-honda,hr-v,1-5l-e-cvt,Konfigurasi Katup,SOHC,5
-honda,hr-v,1-5l-e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,hr-v,1-5l-e-cvt,Rasio Kompresi,10.3:1,5
-honda,hr-v,1-5l-e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,hr-v,1-8l-prestige,Kapasitas mesin,1799 cc,1
-honda,hr-v,1-8l-prestige,Tenaga,137 hp,1
-honda,hr-v,1-8l-prestige,Torsi,169 Nm,1
-honda,hr-v,1-8l-prestige,Jenis Bahan Bakar,Bensin,1
-honda,hr-v,1-8l-prestige,Girboks,Variable Speed,4
-honda,hr-v,1-8l-prestige,Jenis Transmisi,CVT,4
-honda,hr-v,1-8l-prestige,Jumlah Silinder,4,5
-honda,hr-v,1-8l-prestige,Katup per Silinder,4,5
-honda,hr-v,1-8l-prestige,Konfigurasi Katup,SOHC,5
-honda,hr-v,1-8l-prestige,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,hr-v,1-8l-prestige,Rasio Kompresi,9.7:1,5
-honda,hr-v,1-8l-prestige,Mesin,"1.8L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,hr-v,1-5l-e-cvt-special-edition,Kapasitas mesin,1497 cc,1
-honda,hr-v,1-5l-e-cvt-special-edition,Tenaga,118 hp,1
-honda,hr-v,1-5l-e-cvt-special-edition,Torsi,145 Nm,1
-honda,hr-v,1-5l-e-cvt-special-edition,Jenis Bahan Bakar,Bensin,1
-honda,hr-v,1-5l-e-cvt-special-edition,Girboks,Variable Speed,4
-honda,hr-v,1-5l-e-cvt-special-edition,Jenis Transmisi,CVT,4
-honda,hr-v,1-5l-e-cvt-special-edition,Jumlah Silinder,4,5
-honda,hr-v,1-5l-e-cvt-special-edition,Katup per Silinder,4,5
-honda,hr-v,1-5l-e-cvt-special-edition,Konfigurasi Katup,SOHC,5
-honda,hr-v,1-5l-e-cvt-special-edition,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,hr-v,1-5l-e-cvt-special-edition,Rasio Kompresi,10.3:1,5
-honda,hr-v,1-5l-e-cvt-special-edition,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,mobilio,s-mt,Kapasitas mesin,1496 cc,1
-honda,mobilio,s-mt,Tenaga,116 hp,1
-honda,mobilio,s-mt,Jenis Bahan Bakar,Bensin,1
-honda,mobilio,s-mt,Torsi,145 Nm,1
-honda,mobilio,s-mt,Girboks,5-Speed,4
-honda,mobilio,s-mt,Jenis Transmisi,Manual,4
-honda,mobilio,s-mt,Jumlah Silinder,4,5
-honda,mobilio,s-mt,Katup per Silinder,4,5
-honda,mobilio,s-mt,Konfigurasi Katup,SOHC,5
-honda,mobilio,s-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,mobilio,s-mt,Rasio Kompresi,10.3:1,5
-honda,mobilio,s-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,mobilio,e-mt,Kapasitas mesin,1496 cc,1
-honda,mobilio,e-mt,Tenaga,116 hp,1
-honda,mobilio,e-mt,Torsi,145 Nm,1
-honda,mobilio,e-mt,Jenis Bahan Bakar,Bensin,1
-honda,mobilio,e-mt,Girboks,5-Speed,4
-honda,mobilio,e-mt,Jenis Transmisi,Manual,4
-honda,mobilio,e-mt,Jumlah Silinder,4,5
-honda,mobilio,e-mt,Katup per Silinder,4,5
-honda,mobilio,e-mt,Konfigurasi Katup,SOHC,5
-honda,mobilio,e-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,mobilio,e-mt,Rasio Kompresi,10.3:1,5
-honda,mobilio,e-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,mobilio,e-cvt,Kapasitas mesin,1496 cc,1
-honda,mobilio,e-cvt,Tenaga,116 hp,1
-honda,mobilio,e-cvt,Jenis Bahan Bakar,Bensin,1
-honda,mobilio,e-cvt,Torsi,145 Nm,1
-honda,mobilio,e-cvt,Girboks,Variable Speed,4
-honda,mobilio,e-cvt,Jenis Transmisi,CVT,4
-honda,mobilio,e-cvt,Jumlah Silinder,4,5
-honda,mobilio,e-cvt,Katup per Silinder,4,5
-honda,mobilio,e-cvt,Konfigurasi Katup,SOHC,5
-honda,mobilio,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,mobilio,e-cvt,Rasio Kompresi,10.3:1,5
-honda,mobilio,e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,mobilio,rs-mt,Kapasitas mesin,1496 cc,1
-honda,mobilio,rs-mt,Tenaga,116 hp,1
-honda,mobilio,rs-mt,Torsi,145 Nm,1
-honda,mobilio,rs-mt,Jenis Bahan Bakar,Bensin,1
-honda,mobilio,rs-mt,Girboks,5-Speed,4
-honda,mobilio,rs-mt,Jenis Transmisi,Manual,4
-honda,mobilio,rs-mt,Jumlah Silinder,4,5
-honda,mobilio,rs-mt,Katup per Silinder,4,5
-honda,mobilio,rs-mt,Konfigurasi Katup,SOHC,5
-honda,mobilio,rs-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,mobilio,rs-mt,Rasio Kompresi,10.3:1,5
-honda,mobilio,rs-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,mobilio,rs-cvt,Kapasitas mesin,1496 cc,1
-honda,mobilio,rs-cvt,Tenaga,116 hp,1
-honda,mobilio,rs-cvt,Torsi,145 Nm,1
-honda,mobilio,rs-cvt,Jenis Bahan Bakar,Bensin,1
-honda,mobilio,rs-cvt,Girboks,Variable Speed,4
-honda,mobilio,rs-cvt,Jenis Transmisi,CVT,4
-honda,mobilio,rs-cvt,Jumlah Silinder,4,5
-honda,mobilio,rs-cvt,Katup per Silinder,4,5
-honda,mobilio,rs-cvt,Konfigurasi Katup,SOHC,5
-honda,mobilio,rs-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,mobilio,rs-cvt,Rasio Kompresi,10.3:1,5
-honda,mobilio,rs-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,br-v,e-cvt,Kapasitas mesin,1497 cc,1
-honda,br-v,e-cvt,Tenaga,118 hp,1
-honda,br-v,e-cvt,Torsi,145 Nm,1
-honda,br-v,e-cvt,Jenis Bahan Bakar,Bensin,1
-honda,br-v,e-cvt,Girboks,Variable Speed,4
-honda,br-v,e-cvt,Jenis penggerak,FWD,4
-honda,br-v,e-cvt,Jenis Transmisi,CVT,4
-honda,br-v,e-cvt,Jumlah Silinder,4,5
-honda,br-v,e-cvt,Katup per Silinder,4,5
-honda,br-v,e-cvt,Konfigurasi Katup,SOHC,5
-honda,br-v,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,br-v,e-cvt,Rasio Kompresi,10.3:1,5
-honda,br-v,e-cvt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,br-v,prestige-cvt,Kapasitas mesin,1497 cc,1
-honda,br-v,prestige-cvt,Tenaga,118 hp,1
-honda,br-v,prestige-cvt,Torsi,145 Nm,1
-honda,br-v,prestige-cvt,Jenis Bahan Bakar,Bensin,1
-honda,br-v,prestige-cvt,Girboks,Variable Speed,4
-honda,br-v,prestige-cvt,Jenis penggerak,FWD,4
-honda,br-v,prestige-cvt,Jenis Transmisi,CVT,4
-honda,br-v,prestige-cvt,Jumlah Silinder,4,5
-honda,br-v,prestige-cvt,Katup per Silinder,4,5
-honda,br-v,prestige-cvt,Konfigurasi Katup,SOHC,5
-honda,br-v,prestige-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,br-v,prestige-cvt,Rasio Kompresi,10.3:1,5
-honda,br-v,prestige-cvt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,br-v,s-6mt,Kapasitas mesin,1497 cc,1
-honda,br-v,s-6mt,Tenaga,118 hp,1
-honda,br-v,s-6mt,Torsi,145 Nm,1
-honda,br-v,s-6mt,Jenis Bahan Bakar,Bensin,1
-honda,br-v,s-6mt,Girboks,6-Speed,4
-honda,br-v,s-6mt,Jenis penggerak,FWD,4
-honda,br-v,s-6mt,Jenis Transmisi,Manual,4
-honda,br-v,s-6mt,Jumlah Silinder,4,5
-honda,br-v,s-6mt,Katup per Silinder,4,5
-honda,br-v,s-6mt,Konfigurasi Katup,SOHC,5
-honda,br-v,s-6mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,br-v,s-6mt,Rasio Kompresi,10.3:1,5
-honda,br-v,s-6mt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,br-v,e-mt,Kapasitas mesin,1497 cc,1
-honda,br-v,e-mt,Tenaga,118 hp,1
-honda,br-v,e-mt,Jenis Bahan Bakar,Bensin,1
-honda,br-v,e-mt,Torsi,145 Nm,1
-honda,br-v,e-mt,Girboks,6-Speed,4
-honda,br-v,e-mt,Jenis penggerak,FWD,4
-honda,br-v,e-mt,Jenis Transmisi,Manual,4
-honda,br-v,e-mt,Jumlah Silinder,4,5
-honda,br-v,e-mt,Katup per Silinder,4,5
-honda,br-v,e-mt,Konfigurasi Katup,SOHC,5
-honda,br-v,e-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,br-v,e-mt,Rasio Kompresi,10.3:1,5
-honda,br-v,e-mt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5
-honda,jazz,cvt,Kapasitas mesin,1497 cc,1
-honda,jazz,cvt,Tenaga,118 hp,1
-honda,jazz,cvt,Torsi,145 Nm,1
-honda,jazz,cvt,Jenis Bahan Bakar,Bensin,1
-honda,jazz,cvt,Girboks,Variable Speed,4
-honda,jazz,cvt,Jenis penggerak,FWD,4
-honda,jazz,cvt,Jenis Transmisi,CVT,4
-honda,jazz,cvt,Jumlah Silinder,4,5
-honda,jazz,cvt,Katup per Silinder,4,5
-honda,jazz,cvt,Konfigurasi Katup,SOHC,5
-honda,jazz,cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,jazz,cvt,Rasio Kompresi,10.3:1,5
-honda,jazz,cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5
-honda,jazz,rs-cvt,Kapasitas mesin,1497 cc,1
-honda,jazz,rs-cvt,Tenaga,118 hp,1
-honda,jazz,rs-cvt,Torsi,145 Nm,1
-honda,jazz,rs-cvt,Jenis Bahan Bakar,Bensin,1
-honda,jazz,rs-cvt,Girboks,Variable Speed,4
-honda,jazz,rs-cvt,Jenis penggerak,FWD,4
-honda,jazz,rs-cvt,Jenis Transmisi,CVT,4
-honda,jazz,rs-cvt,Jumlah Silinder,4,5
-honda,jazz,rs-cvt,Katup per Silinder,4,5
-honda,jazz,rs-cvt,Konfigurasi Katup,SOHC,5
-honda,jazz,rs-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,jazz,rs-cvt,Rasio Kompresi,10.3:1,5
-honda,jazz,rs-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5
-honda,jazz,mt,Kapasitas mesin,1497 cc,1
-honda,jazz,mt,Tenaga,118 hp,1
-honda,jazz,mt,Torsi,145 Nm,1
-honda,jazz,mt,Jenis Bahan Bakar,Bensin,1
-honda,jazz,mt,Girboks,5-Speed,4
-honda,jazz,mt,Jenis penggerak,FWD,4
-honda,jazz,mt,Jenis Transmisi,Manual,4
-honda,jazz,mt,Jumlah Silinder,4,5
-honda,jazz,mt,Katup per Silinder,4,5
-honda,jazz,mt,Konfigurasi Katup,SOHC,5
-honda,jazz,mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,jazz,mt,Rasio Kompresi,10.3:1,5
-honda,jazz,mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5
-honda,jazz,rs-mt,Kapasitas mesin,1497 cc,1
-honda,jazz,rs-mt,Tenaga,118 hp,1
-honda,jazz,rs-mt,Torsi,145 Nm,1
-honda,jazz,rs-mt,Jenis Bahan Bakar,Bensin,1
-honda,jazz,rs-mt,Girboks,5-Speed,4
-honda,jazz,rs-mt,Jenis penggerak,FWD,4
-honda,jazz,rs-mt,Jenis Transmisi,Manual,4
-honda,jazz,rs-mt,Jumlah Silinder,4,5
-honda,jazz,rs-mt,Katup per Silinder,4,5
-honda,jazz,rs-mt,Konfigurasi Katup,SOHC,5
-honda,jazz,rs-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,jazz,rs-mt,Rasio Kompresi,10.3:1,5
-honda,jazz,rs-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5
-honda,cr-v,1-5l-turbo,Kapasitas mesin,1498 cc,1
-honda,cr-v,1-5l-turbo,Tenaga,187 hp,1
-honda,cr-v,1-5l-turbo,Jenis Bahan Bakar,Bensin,1
-honda,cr-v,1-5l-turbo,Torsi,240 Nm,1
-honda,cr-v,1-5l-turbo,Girboks,Variable Speed,4
-honda,cr-v,1-5l-turbo,Jenis Transmisi,CVT,4
-honda,cr-v,1-5l-turbo,Jumlah Silinder,4,5
-honda,cr-v,1-5l-turbo,Katup per Silinder,4,5
-honda,cr-v,1-5l-turbo,Konfigurasi Katup,DOHC,5
-honda,cr-v,1-5l-turbo,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,cr-v,1-5l-turbo,Rasio Kompresi,10.3:1,5
-honda,cr-v,1-5l-turbo,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5
-honda,cr-v,2-0l,Kapasitas mesin,1997 cc,1
-honda,cr-v,2-0l,Tenaga,153 hp,1
-honda,cr-v,2-0l,Torsi,189 Nm,1
-honda,cr-v,2-0l,Jenis Bahan Bakar,Bensin,1
-honda,cr-v,2-0l,Girboks,Variable Speed,4
-honda,cr-v,2-0l,Jenis Transmisi,CVT,4
-honda,cr-v,2-0l,Jumlah Silinder,4,5
-honda,cr-v,2-0l,Katup per Silinder,4,5
-honda,cr-v,2-0l,Konfigurasi Katup,SOHC,5
-honda,cr-v,2-0l,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,cr-v,2-0l,Rasio Kompresi,10.6:1,5
-honda,cr-v,2-0l,Mesin,"2.0L Petrol Engine, 4 Cylinder 16 Valve SOHC VTEC Turbo",5
-honda,cr-v,1-5l-turbo-prestige,Kapasitas mesin,1498 cc,1
-honda,cr-v,1-5l-turbo-prestige,Tenaga,187 hp,1
-honda,cr-v,1-5l-turbo-prestige,Jenis Bahan Bakar,Bensin,1
-honda,cr-v,1-5l-turbo-prestige,Torsi,240 Nm,1
-honda,cr-v,1-5l-turbo-prestige,Girboks,Variable Speed,4
-honda,cr-v,1-5l-turbo-prestige,Jenis Transmisi,CVT,4
-honda,cr-v,1-5l-turbo-prestige,Jumlah Silinder,4,5
-honda,cr-v,1-5l-turbo-prestige,Katup per Silinder,4,5
-honda,cr-v,1-5l-turbo-prestige,Konfigurasi Katup,DOHC,5
-honda,cr-v,1-5l-turbo-prestige,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,cr-v,1-5l-turbo-prestige,Rasio Kompresi,10.3:1,5
-honda,cr-v,1-5l-turbo-prestige,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5
-honda,civic,1-5l-turbo,Kapasitas mesin,1498 cc,1
-honda,civic,1-5l-turbo,Tenaga,171 hp,1
-honda,civic,1-5l-turbo,Torsi,220 Nm,1
-honda,civic,1-5l-turbo,Jenis Bahan Bakar,Bensin,1
-honda,civic,1-5l-turbo,Girboks,Variable Speed,4
-honda,civic,1-5l-turbo,Jenis Transmisi,CVT,4
-honda,civic,1-5l-turbo,Jumlah Silinder,4,5
-honda,civic,1-5l-turbo,Katup per Silinder,4,5
-honda,civic,1-5l-turbo,Konfigurasi Katup,DOHC,5
-honda,civic,1-5l-turbo,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,civic,1-5l-turbo,Rasio Kompresi,10.6:1,5
-honda,civic,1-5l-turbo,Mesin,"1.5L Petrol Engine Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5
-honda,civic-type-r,6-speed-mt,Kapasitas mesin,1996 cc,1
-honda,civic-type-r,6-speed-mt,Tenaga,306 hp,1
-honda,civic-type-r,6-speed-mt,Jenis Bahan Bakar,Bensin,1
-honda,civic-type-r,6-speed-mt,Torsi,400 Nm,1
-honda,civic-type-r,6-speed-mt,Girboks,6-Speed,4
-honda,civic-type-r,6-speed-mt,Jenis Transmisi,Manual,4
-honda,civic-type-r,6-speed-mt,Jumlah Silinder,4,5
-honda,civic-type-r,6-speed-mt,Katup per Silinder,4,5
-honda,civic-type-r,6-speed-mt,Konfigurasi Katup,DOHC,5
-honda,civic-type-r,6-speed-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,civic-type-r,6-speed-mt,Mesin,"2.0L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC VTEC Turbo",5
-honda,city,e-mt,Kapasitas mesin,1497 cc,1
-honda,city,e-mt,Tenaga,118 hp,1
-honda,city,e-mt,Jenis Bahan Bakar,Bensin,1
-honda,city,e-mt,Torsi,145 Nm,1
-honda,city,e-mt,Girboks,5-Speed,4
-honda,city,e-mt,Jenis penggerak,FWD,4
-honda,city,e-mt,Jenis Transmisi,Manual,4
-honda,city,e-mt,Jumlah Silinder,4,5
-honda,city,e-mt,Katup per Silinder,4,5
-honda,city,e-mt,Konfigurasi Katup,SOHC,5
-honda,city,e-mt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,city,e-mt,Rasio Kompresi,10.3:1,5
-honda,city,e-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5
-honda,city,e-cvt,Kapasitas mesin,1497 cc,1
-honda,city,e-cvt,Tenaga,118 hp,1
-honda,city,e-cvt,Jenis Bahan Bakar,Bensin,1
-honda,city,e-cvt,Torsi,145 Nm,1
-honda,city,e-cvt,Girboks,Variable Speed,4
-honda,city,e-cvt,Jenis penggerak,FWD,4
-honda,city,e-cvt,Jenis Transmisi,CVT,4
-honda,city,e-cvt,Jumlah Silinder,4,5
-honda,city,e-cvt,Katup per Silinder,4,5
-honda,city,e-cvt,Konfigurasi Katup,SOHC,5
-honda,city,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,city,e-cvt,Rasio Kompresi,10.3:1,5
-honda,city,e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5
-honda,civic-hatchback,e-cvt,Kapasitas mesin,1498 cc,1
-honda,civic-hatchback,e-cvt,Tenaga,171 hp,1
-honda,civic-hatchback,e-cvt,Jenis Bahan Bakar,Bensin,1
-honda,civic-hatchback,e-cvt,Torsi,220 Nm,1
-honda,civic-hatchback,e-cvt,Girboks,Variable Speed,4
-honda,civic-hatchback,e-cvt,Jenis Transmisi,CVT,4
-honda,civic-hatchback,e-cvt,Jumlah Silinder,4,5
-honda,civic-hatchback,e-cvt,Katup per Silinder,4,5
-honda,civic-hatchback,e-cvt,Konfigurasi Katup,DOHC,5
-honda,civic-hatchback,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,civic-hatchback,e-cvt,Rasio Kompresi,10.6:1,5
-honda,civic-hatchback,e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5
-honda,civic-hatchback,s-cvt,Kapasitas mesin,1498 cc,1
-honda,civic-hatchback,s-cvt,Tenaga,171 hp,1
-honda,civic-hatchback,s-cvt,Torsi,220 Nm,1
-honda,civic-hatchback,s-cvt,Jenis Bahan Bakar,Bensin,1
-honda,civic-hatchback,s-cvt,Girboks,Variable Speed,4
-honda,civic-hatchback,s-cvt,Jenis Transmisi,CVT,4
-honda,civic-hatchback,s-cvt,Jumlah Silinder,4,5
-honda,civic-hatchback,s-cvt,Katup per Silinder,4,5
-honda,civic-hatchback,s-cvt,Konfigurasi Katup,DOHC,5
-honda,civic-hatchback,s-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,civic-hatchback,s-cvt,Rasio Kompresi,10.6:1,5
-honda,civic-hatchback,s-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5
-honda,odyssey,2-4l,Kapasitas mesin,2356 cc,1
-honda,odyssey,2-4l,Tenaga,173 hp,1
-honda,odyssey,2-4l,Torsi,225 Nm,1
-honda,odyssey,2-4l,Jenis Bahan Bakar,Bensin,1
-honda,odyssey,2-4l,Girboks,Variable Speed,4
-honda,odyssey,2-4l,Jenis Transmisi,CVT,4
-honda,odyssey,2-4l,Jumlah Silinder,4,5
-honda,odyssey,2-4l,Katup per Silinder,4,5
-honda,odyssey,2-4l,Konfigurasi Katup,DOHC,5
-honda,odyssey,2-4l,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,odyssey,2-4l,Rasio Kompresi,10.1:1,5
-honda,odyssey,2-4l,Mesin,"2.4L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC i-VTEC",5
-honda,accord,1-5l,Kapasitas mesin,1498 cc,1
-honda,accord,1-5l,Tenaga,187 hp,1
-honda,accord,1-5l,Torsi,260 Nm,1
-honda,accord,1-5l,Jenis Bahan Bakar,Bensin,1
-honda,accord,1-5l,Girboks,Variable Speed,4
-honda,accord,1-5l,Jenis Transmisi,CVT,4
-honda,accord,1-5l,Jenis penggerak,FWD,4
-honda,accord,1-5l,Jumlah Silinder,4,5
-honda,accord,1-5l,Katup per Silinder,4,5
-honda,accord,1-5l,Konfigurasi Katup,DOHC,5
-honda,accord,1-5l,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,accord,1-5l,Rasio Kompresi,10.3:1,5
-honda,accord,1-5l,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC",5
-honda,civic-hatchback-rs,1-5l,Kapasitas mesin,1498 cc,1
-honda,civic-hatchback-rs,1-5l,Tenaga,171 hp,1
-honda,civic-hatchback-rs,1-5l,Jenis Bahan Bakar,Bensin,1
-honda,civic-hatchback-rs,1-5l,Torsi,220 Nm,1
-honda,civic-hatchback-rs,1-5l,Girboks,Variable Speed,4
-honda,civic-hatchback-rs,1-5l,Jenis Transmisi,CVT,4
-honda,civic-hatchback-rs,1-5l,Jumlah Silinder,4,5
-honda,civic-hatchback-rs,1-5l,Katup per Silinder,4,5
-honda,civic-hatchback-rs,1-5l,Konfigurasi Katup,DOHC,5
-honda,civic-hatchback-rs,1-5l,Sistem Suplai Bahan Bakar,PGM-FI,5
-honda,civic-hatchback-rs,1-5l,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC",5
+daihatsu,terios,x-mt,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,x-mt,Tenaga,103 hp,1.0
+daihatsu,terios,x-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,x-mt,Konsumsi BBM dalam kota (kmpl),10.5 kmpl,1.0
+daihatsu,terios,x-mt,Torsi,136 Nm,1.0
+daihatsu,terios,x-mt,Konsumsi BBM Tol,14.5 kmpl,1.0
+daihatsu,terios,x-mt,Girboks,5-Speed,4.0
+daihatsu,terios,x-mt,Jenis Transmisi,Manual,4.0
+daihatsu,terios,x-mt,Jumlah Silinder,4,5.0
+daihatsu,terios,x-mt,Katup per Silinder,4,5.0
+daihatsu,terios,x-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,x-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,x-mt,Mesin,1.5 L,5.0
+daihatsu,terios,x-at-deluxe,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,x-at-deluxe,Tenaga,103 hp,1.0
+daihatsu,terios,x-at-deluxe,Konsumsi BBM dalam kota (kmpl),10 kmpl,1.0
+daihatsu,terios,x-at-deluxe,Konsumsi BBM Tol,14.5 kmpl,1.0
+daihatsu,terios,x-at-deluxe,Torsi,136 Nm,1.0
+daihatsu,terios,x-at-deluxe,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,x-at-deluxe,Girboks,4-Speed,4.0
+daihatsu,terios,x-at-deluxe,Jenis Transmisi,Otomatis,4.0
+daihatsu,terios,x-at-deluxe,Jumlah Silinder,4,5.0
+daihatsu,terios,x-at-deluxe,Katup per Silinder,4,5.0
+daihatsu,terios,x-at-deluxe,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,x-at-deluxe,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,x-at-deluxe,Mesin,1.5 L,5.0
+daihatsu,terios,r-mt,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,r-mt,Tenaga,103 hp,1.0
+daihatsu,terios,r-mt,Konsumsi BBM Tol,14.7 kmpl,1.0
+daihatsu,terios,r-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,r-mt,Torsi,136 Nm,1.0
+daihatsu,terios,r-mt,Konsumsi BBM dalam kota (kmpl),10.3 kmpl,1.0
+daihatsu,terios,r-mt,Girboks,5-Speed,4.0
+daihatsu,terios,r-mt,Jenis Transmisi,Manual,4.0
+daihatsu,terios,r-mt,Jumlah Silinder,4,5.0
+daihatsu,terios,r-mt,Katup per Silinder,4,5.0
+daihatsu,terios,r-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,r-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,r-mt,Mesin,1.5 L,5.0
+daihatsu,terios,r-at,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,r-at,Tenaga,103 hp,1.0
+daihatsu,terios,r-at,Konsumsi BBM Tol,14.5 kmpl,1.0
+daihatsu,terios,r-at,Konsumsi BBM dalam kota (kmpl),10 kmpl,1.0
+daihatsu,terios,r-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,r-at,Torsi,136 Nm,1.0
+daihatsu,terios,r-at,Girboks,4-Speed,4.0
+daihatsu,terios,r-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,terios,r-at,Jumlah Silinder,4,5.0
+daihatsu,terios,r-at,Katup per Silinder,4,5.0
+daihatsu,terios,r-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,r-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,r-at,Mesin,1.5 L,5.0
+daihatsu,terios,x-mt-deluxe,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,x-mt-deluxe,Tenaga,103 hp,1.0
+daihatsu,terios,x-mt-deluxe,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,x-mt-deluxe,Konsumsi BBM Tol,14.7 kmpl,1.0
+daihatsu,terios,x-mt-deluxe,Torsi,136 Nm,1.0
+daihatsu,terios,x-mt-deluxe,Konsumsi BBM dalam kota (kmpl),10.2 kmpl,1.0
+daihatsu,terios,x-mt-deluxe,Girboks,5-Speed,4.0
+daihatsu,terios,x-mt-deluxe,Jenis Transmisi,Manual,4.0
+daihatsu,terios,x-mt-deluxe,Jumlah Silinder,4,5.0
+daihatsu,terios,x-mt-deluxe,Katup per Silinder,4,5.0
+daihatsu,terios,x-mt-deluxe,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,x-mt-deluxe,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,x-mt-deluxe,Mesin,1.5 L,5.0
+daihatsu,terios,r-mt-deluxe,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,r-mt-deluxe,Tenaga,103 hp,1.0
+daihatsu,terios,r-mt-deluxe,Konsumsi BBM Tol,14.7 kmpl,1.0
+daihatsu,terios,r-mt-deluxe,Torsi,136 Nm,1.0
+daihatsu,terios,r-mt-deluxe,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,r-mt-deluxe,Konsumsi BBM dalam kota (kmpl),10.3 kmpl,1.0
+daihatsu,terios,r-mt-deluxe,Girboks,5-Speed,4.0
+daihatsu,terios,r-mt-deluxe,Jenis Transmisi,Manual,4.0
+daihatsu,terios,r-mt-deluxe,Jumlah Silinder,4,5.0
+daihatsu,terios,r-mt-deluxe,Katup per Silinder,4,5.0
+daihatsu,terios,r-mt-deluxe,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,r-mt-deluxe,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,r-mt-deluxe,Mesin,1.5 L,5.0
+daihatsu,terios,r-at-deluxe,Kapasitas mesin,1496 cc,1.0
+daihatsu,terios,r-at-deluxe,Tenaga,103 hp,1.0
+daihatsu,terios,r-at-deluxe,Konsumsi BBM dalam kota (kmpl),10 kmpl,1.0
+daihatsu,terios,r-at-deluxe,Konsumsi BBM Tol,14.7 kmpl,1.0
+daihatsu,terios,r-at-deluxe,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,terios,r-at-deluxe,Torsi,136 Nm,1.0
+daihatsu,terios,r-at-deluxe,Girboks,4-Speed,4.0
+daihatsu,terios,r-at-deluxe,Jenis Transmisi,Otomatis,4.0
+daihatsu,terios,r-at-deluxe,Jumlah Silinder,4,5.0
+daihatsu,terios,r-at-deluxe,Katup per Silinder,4,5.0
+daihatsu,terios,r-at-deluxe,Konfigurasi Katup,DOHC,5.0
+daihatsu,terios,r-at-deluxe,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,terios,r-at-deluxe,Mesin,1.5 L,5.0
+daihatsu,ayla,1-0l-d-mt,Kapasitas mesin,998 cc,1.0
+daihatsu,ayla,1-0l-d-mt,Tenaga,64 hp,1.0
+daihatsu,ayla,1-0l-d-mt,Torsi,86 Nm,1.0
+daihatsu,ayla,1-0l-d-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-0l-d-mt,Girboks,5-Speed,4.0
+daihatsu,ayla,1-0l-d-mt,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-0l-d-mt,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-0l-d-mt,Jumlah Silinder,3,5.0
+daihatsu,ayla,1-0l-d-mt,Katup per Silinder,4,5.0
+daihatsu,ayla,1-0l-d-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-0l-d-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-0l-d-mt,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5.0
+daihatsu,ayla,1-0l-x-mt,Kapasitas mesin,998 cc,1.0
+daihatsu,ayla,1-0l-x-mt,Tenaga,64 hp,1.0
+daihatsu,ayla,1-0l-x-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-0l-x-mt,Torsi,86 Nm,1.0
+daihatsu,ayla,1-0l-x-mt,Girboks,5-Speed,4.0
+daihatsu,ayla,1-0l-x-mt,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-0l-x-mt,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-0l-x-mt,Jumlah Silinder,3,5.0
+daihatsu,ayla,1-0l-x-mt,Katup per Silinder,4,5.0
+daihatsu,ayla,1-0l-x-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-0l-x-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-0l-x-mt,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5.0
+daihatsu,ayla,1-0l-x-at,Kapasitas mesin,998 cc,1.0
+daihatsu,ayla,1-0l-x-at,Tenaga,64 hp,1.0
+daihatsu,ayla,1-0l-x-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-0l-x-at,Torsi,86 Nm,1.0
+daihatsu,ayla,1-0l-x-at,Girboks,4-Speed,4.0
+daihatsu,ayla,1-0l-x-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,ayla,1-0l-x-at,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-0l-x-at,Jumlah Silinder,3,5.0
+daihatsu,ayla,1-0l-x-at,Katup per Silinder,4,5.0
+daihatsu,ayla,1-0l-x-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-0l-x-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-0l-x-at,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5.0
+daihatsu,ayla,1-2l-x-mt,Kapasitas mesin,1197 cc,1.0
+daihatsu,ayla,1-2l-x-mt,Tenaga,87 hp,1.0
+daihatsu,ayla,1-2l-x-mt,Torsi,108 Nm,1.0
+daihatsu,ayla,1-2l-x-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-2l-x-mt,Girboks,5-Speed,4.0
+daihatsu,ayla,1-2l-x-mt,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-2l-x-mt,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-2l-x-mt,Jumlah Silinder,4,5.0
+daihatsu,ayla,1-2l-x-mt,Katup per Silinder,4,5.0
+daihatsu,ayla,1-2l-x-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-2l-x-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-2l-x-mt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5.0
+daihatsu,ayla,1-2l-x-at,Kapasitas mesin,1197 cc,1.0
+daihatsu,ayla,1-2l-x-at,Tenaga,87 hp,1.0
+daihatsu,ayla,1-2l-x-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-2l-x-at,Torsi,108 Nm,1.0
+daihatsu,ayla,1-2l-x-at,Girboks,4-Speed,4.0
+daihatsu,ayla,1-2l-x-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,ayla,1-2l-x-at,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-2l-x-at,Jumlah Silinder,4,5.0
+daihatsu,ayla,1-2l-x-at,Katup per Silinder,4,5.0
+daihatsu,ayla,1-2l-x-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-2l-x-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-2l-x-at,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5.0
+daihatsu,ayla,1-2l-r-mt,Kapasitas mesin,1197 cc,1.0
+daihatsu,ayla,1-2l-r-mt,Tenaga,87 hp,1.0
+daihatsu,ayla,1-2l-r-mt,Torsi,108 Nm,1.0
+daihatsu,ayla,1-2l-r-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-2l-r-mt,Girboks,5-Speed,4.0
+daihatsu,ayla,1-2l-r-mt,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-2l-r-mt,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-2l-r-mt,Jumlah Silinder,4,5.0
+daihatsu,ayla,1-2l-r-mt,Katup per Silinder,4,5.0
+daihatsu,ayla,1-2l-r-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-2l-r-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-2l-r-mt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5.0
+daihatsu,ayla,1-2l-r-at,Kapasitas mesin,1197 cc,1.0
+daihatsu,ayla,1-2l-r-at,Tenaga,87 hp,1.0
+daihatsu,ayla,1-2l-r-at,Torsi,108 Nm,1.0
+daihatsu,ayla,1-2l-r-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-2l-r-at,Girboks,4-Speed,4.0
+daihatsu,ayla,1-2l-r-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,ayla,1-2l-r-at,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-2l-r-at,Jumlah Silinder,4,5.0
+daihatsu,ayla,1-2l-r-at,Katup per Silinder,4,5.0
+daihatsu,ayla,1-2l-r-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-2l-r-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-2l-r-at,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5.0
+daihatsu,ayla,1-0l-d-plus-mt,Kapasitas mesin,998 cc,1.0
+daihatsu,ayla,1-0l-d-plus-mt,Tenaga,64 hp,1.0
+daihatsu,ayla,1-0l-d-plus-mt,Torsi,86 Nm,1.0
+daihatsu,ayla,1-0l-d-plus-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-0l-d-plus-mt,Girboks,5-Speed,4.0
+daihatsu,ayla,1-0l-d-plus-mt,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-0l-d-plus-mt,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-0l-d-plus-mt,Jumlah Silinder,3,5.0
+daihatsu,ayla,1-0l-d-plus-mt,Katup per Silinder,4,5.0
+daihatsu,ayla,1-0l-d-plus-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-0l-d-plus-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-0l-d-plus-mt,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5.0
+daihatsu,ayla,1-0l-x-mt-dlx,Kapasitas mesin,998 cc,1.0
+daihatsu,ayla,1-0l-x-mt-dlx,Tenaga,64 hp,1.0
+daihatsu,ayla,1-0l-x-mt-dlx,Torsi,86 Nm,1.0
+daihatsu,ayla,1-0l-x-mt-dlx,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-0l-x-mt-dlx,Girboks,5-Speed,4.0
+daihatsu,ayla,1-0l-x-mt-dlx,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-0l-x-mt-dlx,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-0l-x-mt-dlx,Jumlah Silinder,3,5.0
+daihatsu,ayla,1-0l-x-mt-dlx,Katup per Silinder,4,5.0
+daihatsu,ayla,1-0l-x-mt-dlx,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-0l-x-mt-dlx,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-0l-x-mt-dlx,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5.0
+daihatsu,ayla,1-0l-x-at-dlx,Kapasitas mesin,998 cc,1.0
+daihatsu,ayla,1-0l-x-at-dlx,Tenaga,64 hp,1.0
+daihatsu,ayla,1-0l-x-at-dlx,Torsi,86 Nm,1.0
+daihatsu,ayla,1-0l-x-at-dlx,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-0l-x-at-dlx,Girboks,4-Speed,4.0
+daihatsu,ayla,1-0l-x-at-dlx,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-0l-x-at-dlx,Jenis Transmisi,Otomatis,4.0
+daihatsu,ayla,1-0l-x-at-dlx,Jumlah Silinder,3,5.0
+daihatsu,ayla,1-0l-x-at-dlx,Katup per Silinder,4,5.0
+daihatsu,ayla,1-0l-x-at-dlx,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-0l-x-at-dlx,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-0l-x-at-dlx,Mesin,"1.0L Petrol Engine, 3 Cylinder 12 Valve DOHC",5.0
+daihatsu,ayla,1-2l-r-mt-dlx,Kapasitas mesin,1197 cc,1.0
+daihatsu,ayla,1-2l-r-mt-dlx,Tenaga,87 hp,1.0
+daihatsu,ayla,1-2l-r-mt-dlx,Torsi,108 Nm,1.0
+daihatsu,ayla,1-2l-r-mt-dlx,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-2l-r-mt-dlx,Girboks,5-Speed,4.0
+daihatsu,ayla,1-2l-r-mt-dlx,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-2l-r-mt-dlx,Jenis Transmisi,Manual,4.0
+daihatsu,ayla,1-2l-r-mt-dlx,Jumlah Silinder,4,5.0
+daihatsu,ayla,1-2l-r-mt-dlx,Katup per Silinder,4,5.0
+daihatsu,ayla,1-2l-r-mt-dlx,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-2l-r-mt-dlx,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-2l-r-mt-dlx,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5.0
+daihatsu,ayla,1-2l-r-at-dlx,Kapasitas mesin,1197 cc,1.0
+daihatsu,ayla,1-2l-r-at-dlx,Tenaga,87 hp,1.0
+daihatsu,ayla,1-2l-r-at-dlx,Torsi,108 Nm,1.0
+daihatsu,ayla,1-2l-r-at-dlx,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,ayla,1-2l-r-at-dlx,Girboks,4-Speed,4.0
+daihatsu,ayla,1-2l-r-at-dlx,Jenis Transmisi,Otomatis,4.0
+daihatsu,ayla,1-2l-r-at-dlx,Jenis penggerak,FWD,4.0
+daihatsu,ayla,1-2l-r-at-dlx,Jumlah Silinder,4,5.0
+daihatsu,ayla,1-2l-r-at-dlx,Katup per Silinder,4,5.0
+daihatsu,ayla,1-2l-r-at-dlx,Konfigurasi Katup,DOHC,5.0
+daihatsu,ayla,1-2l-r-at-dlx,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,ayla,1-2l-r-at-dlx,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve DOHC with Dual VVT-i",5.0
+daihatsu,sirion,1-3l-at,Kapasitas mesin,1329 cc,1.0
+daihatsu,sirion,1-3l-at,Tenaga,94 hp,1.0
+daihatsu,sirion,1-3l-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sirion,1-3l-at,Torsi,120 Nm,1.0
+daihatsu,sirion,1-3l-at,Girboks,4-Speed,4.0
+daihatsu,sirion,1-3l-at,Jenis penggerak,RWD,4.0
+daihatsu,sirion,1-3l-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,sirion,1-3l-at,Jumlah Silinder,4,5.0
+daihatsu,sirion,1-3l-at,Katup per Silinder,4,5.0
+daihatsu,sirion,1-3l-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,sirion,1-3l-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sirion,1-3l-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5.0
+daihatsu,sirion,1-3l-mt,Kapasitas mesin,1329 cc,1.0
+daihatsu,sirion,1-3l-mt,Tenaga,94 hp,1.0
+daihatsu,sirion,1-3l-mt,Torsi,120 Nm,1.0
+daihatsu,sirion,1-3l-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sirion,1-3l-mt,Girboks,5-Speed,4.0
+daihatsu,sirion,1-3l-mt,Jenis penggerak,RWD,4.0
+daihatsu,sirion,1-3l-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sirion,1-3l-mt,Jumlah Silinder,4,5.0
+daihatsu,sirion,1-3l-mt,Katup per Silinder,4,5.0
+daihatsu,sirion,1-3l-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sirion,1-3l-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sirion,1-3l-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5.0
+daihatsu,sigra,1-0-d-mt,Kapasitas mesin,998 cc,1.0
+daihatsu,sigra,1-0-d-mt,Tenaga,66 hp,1.0
+daihatsu,sigra,1-0-d-mt,Torsi,89 Nm,1.0
+daihatsu,sigra,1-0-d-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-0-d-mt,Girboks,5-Speed,4.0
+daihatsu,sigra,1-0-d-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sigra,1-0-d-mt,Jumlah Silinder,3,5.0
+daihatsu,sigra,1-0-d-mt,Katup per Silinder,4,5.0
+daihatsu,sigra,1-0-d-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-0-d-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-0-d-mt,Mesin,"1.0L Petrol Engine, Inline 3 Cylinder 12 Valve DOHC VVT-i",5.0
+daihatsu,sigra,1-2-x-at,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-x-at,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-x-at,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-x-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-x-at,Girboks,4-Speed,4.0
+daihatsu,sigra,1-2-x-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,sigra,1-2-x-at,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-x-at,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-x-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-x-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-x-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-0-m-mt,Kapasitas mesin,998 cc,1.0
+daihatsu,sigra,1-0-m-mt,Tenaga,66 hp,1.0
+daihatsu,sigra,1-0-m-mt,Torsi,89 Nm,1.0
+daihatsu,sigra,1-0-m-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-0-m-mt,Girboks,5-Speed,4.0
+daihatsu,sigra,1-0-m-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sigra,1-0-m-mt,Jumlah Silinder,3,5.0
+daihatsu,sigra,1-0-m-mt,Katup per Silinder,4,5.0
+daihatsu,sigra,1-0-m-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-0-m-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-0-m-mt,Mesin,"1.0L Petrol Engine, Inline 3 Cylinder 12 Valve DOHC VVT-i",5.0
+daihatsu,sigra,1-2-x-mt,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-x-mt,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-x-mt,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-x-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-x-mt,Girboks,5-Speed,4.0
+daihatsu,sigra,1-2-x-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sigra,1-2-x-mt,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-x-mt,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-x-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-x-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-x-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-2-r-mt,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-r-mt,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-r-mt,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-r-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-r-mt,Girboks,5-Speed,4.0
+daihatsu,sigra,1-2-r-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sigra,1-2-r-mt,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-r-mt,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-r-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-r-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-r-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-2-r-at,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-r-at,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-r-at,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-r-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-r-at,Girboks,4-Speed,4.0
+daihatsu,sigra,1-2-r-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,sigra,1-2-r-at,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-r-at,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-r-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-r-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-r-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-2-x-dlx-mt,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-x-dlx-mt,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-x-dlx-mt,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-x-dlx-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-x-dlx-mt,Girboks,5-Speed,4.0
+daihatsu,sigra,1-2-x-dlx-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sigra,1-2-x-dlx-mt,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-x-dlx-mt,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-x-dlx-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-x-dlx-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-x-dlx-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-2-x-dlx-at,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-x-dlx-at,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-x-dlx-at,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-x-dlx-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-x-dlx-at,Girboks,4-Speed,4.0
+daihatsu,sigra,1-2-x-dlx-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,sigra,1-2-x-dlx-at,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-x-dlx-at,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-x-dlx-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-x-dlx-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-x-dlx-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-2-r-dlx-mt,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-r-dlx-mt,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-r-dlx-mt,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-r-dlx-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-r-dlx-mt,Girboks,5-Speed,4.0
+daihatsu,sigra,1-2-r-dlx-mt,Jenis Transmisi,Manual,4.0
+daihatsu,sigra,1-2-r-dlx-mt,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-r-dlx-mt,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-r-dlx-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-r-dlx-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-r-dlx-mt,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,sigra,1-2-r-dlx-at,Kapasitas mesin,1197 cc,1.0
+daihatsu,sigra,1-2-r-dlx-at,Tenaga,87 hp,1.0
+daihatsu,sigra,1-2-r-dlx-at,Torsi,108 Nm,1.0
+daihatsu,sigra,1-2-r-dlx-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,sigra,1-2-r-dlx-at,Girboks,4-Speed,4.0
+daihatsu,sigra,1-2-r-dlx-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,sigra,1-2-r-dlx-at,Jumlah Silinder,4,5.0
+daihatsu,sigra,1-2-r-dlx-at,Katup per Silinder,4,5.0
+daihatsu,sigra,1-2-r-dlx-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,sigra,1-2-r-dlx-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,sigra,1-2-r-dlx-at,Mesin,"1.2L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Girboks,4-Speed,4.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Girboks,5-Speed,4.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Jenis Transmisi,Manual,4.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Girboks,4-Speed,4.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-r-deluxe-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-x-mt,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-x-mt,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-x-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-x-mt,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-x-mt,Girboks,5-Speed,4.0
+daihatsu,grand-xenia,1-3-x-mt,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-x-mt,Jenis Transmisi,Manual,4.0
+daihatsu,grand-xenia,1-3-x-mt,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-mt,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-x-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-x-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-x-at,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-x-at,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-x-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-x-at,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-x-at,Girboks,4-Speed,4.0
+daihatsu,grand-xenia,1-3-x-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,grand-xenia,1-3-x-at,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-x-at,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-at,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-x-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-x-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-r-mt,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-r-mt,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-r-mt,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-r-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-r-mt,Girboks,5-Speed,4.0
+daihatsu,grand-xenia,1-3-r-mt,Jenis Transmisi,Manual,4.0
+daihatsu,grand-xenia,1-3-r-mt,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-r-mt,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-mt,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-r-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-r-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-r-at,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-r-at,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-r-at,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-r-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-r-at,Girboks,4-Speed,4.0
+daihatsu,grand-xenia,1-3-r-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,grand-xenia,1-3-r-at,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-r-at,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-at,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-r-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-r-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-r-at,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Kapasitas mesin,1496 cc,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Tenaga,103 hp,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Torsi,136 Nm,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Girboks,5-Speed,4.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Jenis Transmisi,Manual,4.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Kapasitas mesin,1496 cc,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Tenaga,103 hp,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Torsi,136 Nm,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Girboks,4-Speed,4.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-5-r-deluxe-at,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Kapasitas mesin,1329 cc,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Tenaga,96 hp,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Torsi,121 Nm,1.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Girboks,5-Speed,4.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Jenis penggerak,FWD,4.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Jenis Transmisi,Manual,4.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Jumlah Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Katup per Silinder,4,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC Dual VVT-i",5.0
+daihatsu,luxio,1-5-d-mt,Kapasitas mesin,1495 cc,1.0
+daihatsu,luxio,1-5-d-mt,Tenaga,96 hp,1.0
+daihatsu,luxio,1-5-d-mt,Konsumsi BBM dalam kota (kmpl),10 kmpl,1.0
+daihatsu,luxio,1-5-d-mt,Konsumsi BBM Tol,14 kmpl,1.0
+daihatsu,luxio,1-5-d-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,luxio,1-5-d-mt,Torsi,134 Nm,1.0
+daihatsu,luxio,1-5-d-mt,Girboks,5-Speed,4.0
+daihatsu,luxio,1-5-d-mt,Jenis Transmisi,Manual,4.0
+daihatsu,luxio,1-5-d-mt,Jumlah Silinder,4,5.0
+daihatsu,luxio,1-5-d-mt,Katup per Silinder,4,5.0
+daihatsu,luxio,1-5-d-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,luxio,1-5-d-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,luxio,1-5-x-mt,Kapasitas mesin,1495 cc,1.0
+daihatsu,luxio,1-5-x-mt,Tenaga,96 hp,1.0
+daihatsu,luxio,1-5-x-mt,Konsumsi BBM dalam kota (kmpl),10 kmpl,1.0
+daihatsu,luxio,1-5-x-mt,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,luxio,1-5-x-mt,Torsi,134 Nm,1.0
+daihatsu,luxio,1-5-x-mt,Konsumsi BBM Tol,13 kmpl,1.0
+daihatsu,luxio,1-5-x-mt,Girboks,5-Speed,4.0
+daihatsu,luxio,1-5-x-mt,Jenis Transmisi,Manual,4.0
+daihatsu,luxio,1-5-x-mt,Jumlah Silinder,4,5.0
+daihatsu,luxio,1-5-x-mt,Katup per Silinder,4,5.0
+daihatsu,luxio,1-5-x-mt,Konfigurasi Katup,DOHC,5.0
+daihatsu,luxio,1-5-x-mt,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,luxio,1-5-x-at,Kapasitas mesin,1495 cc,1.0
+daihatsu,luxio,1-5-x-at,Tenaga,96 hp,1.0
+daihatsu,luxio,1-5-x-at,Konsumsi BBM dalam kota (kmpl),10.1 kmpl,1.0
+daihatsu,luxio,1-5-x-at,Konsumsi BBM Tol,13.9 kmpl,1.0
+daihatsu,luxio,1-5-x-at,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,luxio,1-5-x-at,Torsi,134 Nm,1.0
+daihatsu,luxio,1-5-x-at,Girboks,4-Speed,4.0
+daihatsu,luxio,1-5-x-at,Jenis Transmisi,Otomatis,4.0
+daihatsu,luxio,1-5-x-at,Jumlah Silinder,4,5.0
+daihatsu,luxio,1-5-x-at,Katup per Silinder,4,5.0
+daihatsu,luxio,1-5-x-at,Konfigurasi Katup,DOHC,5.0
+daihatsu,luxio,1-5-x-at,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,1-3-std,Kapasitas mesin,1298 cc,1.0
+daihatsu,gran-max-pu,1-3-std,Tenaga,87 hp,1.0
+daihatsu,gran-max-pu,1-3-std,Torsi,115 Nm,1.0
+daihatsu,gran-max-pu,1-3-std,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,1-3-std,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,1-3-std,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,1-3-std,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,1-3-std,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,1-3-std,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,1-3-std,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,1-5-std,Kapasitas mesin,1495 cc,1.0
+daihatsu,gran-max-pu,1-5-std,Tenaga,96 hp,1.0
+daihatsu,gran-max-pu,1-5-std,Torsi,134 Nm,1.0
+daihatsu,gran-max-pu,1-5-std,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,1-5-std,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,1-5-std,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,1-5-std,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,1-5-std,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,1-5-std,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,1-5-std,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,1-5-std-acaps,Kapasitas mesin,1495 cc,1.0
+daihatsu,gran-max-pu,1-5-std-acaps,Tenaga,96 hp,1.0
+daihatsu,gran-max-pu,1-5-std-acaps,Torsi,134 Nm,1.0
+daihatsu,gran-max-pu,1-5-std-acaps,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,1-5-std-acaps,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,1-5-std-acaps,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,1-5-std-acaps,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,1-5-std-acaps,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,1-5-std-acaps,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,1-5-std-acaps,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,box-1-5-sliding,Kapasitas mesin,1495 cc,1.0
+daihatsu,gran-max-pu,box-1-5-sliding,Tenaga,96 hp,1.0
+daihatsu,gran-max-pu,box-1-5-sliding,Torsi,134 Nm,1.0
+daihatsu,gran-max-pu,box-1-5-sliding,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,box-1-5-sliding,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,box-1-5-sliding,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,box-1-5-sliding,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,box-1-5-sliding,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,box-1-5-sliding,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,box-1-5-sliding,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,1-3-3w,Kapasitas mesin,1298 cc,1.0
+daihatsu,gran-max-pu,1-3-3w,Tenaga,87 hp,1.0
+daihatsu,gran-max-pu,1-3-3w,Torsi,115 Nm,1.0
+daihatsu,gran-max-pu,1-3-3w,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,1-3-3w,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,1-3-3w,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,1-3-3w,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,1-3-3w,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,1-3-3w,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,1-3-3w,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,1-5-3w,Kapasitas mesin,1495 cc,1.0
+daihatsu,gran-max-pu,1-5-3w,Tenaga,96 hp,1.0
+daihatsu,gran-max-pu,1-5-3w,Torsi,134 Nm,1.0
+daihatsu,gran-max-pu,1-5-3w,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,1-5-3w,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,1-5-3w,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,1-5-3w,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,1-5-3w,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,1-5-3w,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,1-5-3w,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,box-1-3-sliding,Kapasitas mesin,1298 cc,1.0
+daihatsu,gran-max-pu,box-1-3-sliding,Tenaga,87 hp,1.0
+daihatsu,gran-max-pu,box-1-3-sliding,Torsi,115 Nm,1.0
+daihatsu,gran-max-pu,box-1-3-sliding,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,box-1-3-sliding,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,box-1-3-sliding,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,box-1-3-sliding,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,box-1-3-sliding,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,box-1-3-sliding,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,box-1-3-sliding,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-pu,box-1-5,Kapasitas mesin,1495 cc,1.0
+daihatsu,gran-max-pu,box-1-5,Tenaga,96 hp,1.0
+daihatsu,gran-max-pu,box-1-5,Torsi,134 Nm,1.0
+daihatsu,gran-max-pu,box-1-5,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-pu,box-1-5,Girboks,5-Speed,4.0
+daihatsu,gran-max-pu,box-1-5,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-pu,box-1-5,Jumlah Silinder,4,5.0
+daihatsu,gran-max-pu,box-1-5,Katup per Silinder,4,5.0
+daihatsu,gran-max-pu,box-1-5,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-pu,box-1-5,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Kapasitas mesin,1298 cc,1.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Tenaga,87 hp,1.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Torsi,115 Nm,1.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Girboks,5-Speed,4.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Jenis penggerak,FWD,4.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Jumlah Silinder,4,5.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Katup per Silinder,4,5.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-mb,1-3-d-ff-fh,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5.0
+daihatsu,gran-max-mb,1-3-d-fh,Kapasitas mesin,1298 cc,1.0
+daihatsu,gran-max-mb,1-3-d-fh,Tenaga,87 hp,1.0
+daihatsu,gran-max-mb,1-3-d-fh,Torsi,115 Nm,1.0
+daihatsu,gran-max-mb,1-3-d-fh,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-mb,1-3-d-fh,Girboks,5-Speed,4.0
+daihatsu,gran-max-mb,1-3-d-fh,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-mb,1-3-d-fh,Jenis penggerak,FWD,4.0
+daihatsu,gran-max-mb,1-3-d-fh,Jumlah Silinder,4,5.0
+daihatsu,gran-max-mb,1-3-d-fh,Katup per Silinder,4,5.0
+daihatsu,gran-max-mb,1-3-d-fh,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-mb,1-3-d-fh,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-mb,1-3-d-fh,Mesin,"1.3L Petrol Engine, 4 Cylinder 16 Valve DOHC",5.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Kapasitas mesin,1495 cc,1.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Tenaga,96 hp,1.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Jenis Bahan Bakar,Bensin,1.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Torsi,134 Nm,1.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Girboks,5-Speed,4.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Jenis Transmisi,Manual,4.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Jenis penggerak,FWD,4.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Jumlah Silinder,4,5.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Katup per Silinder,4,5.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Konfigurasi Katup,DOHC,5.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Sistem Suplai Bahan Bakar,EFI,5.0
+daihatsu,gran-max-mb,1-5-d-ps-fh,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC",5.0
+honda,brio,satya-s,Kapasitas mesin,1199 cc,1.0
+honda,brio,satya-s,Tenaga,89 hp,1.0
+honda,brio,satya-s,Konsumsi BBM Tol,22.5 kmpl,1.0
+honda,brio,satya-s,Konsumsi BBM,20 kmpl,1.0
+honda,brio,satya-s,Jenis Bahan Bakar,Bensin,1.0
+honda,brio,satya-s,Torsi,110 Nm,1.0
+honda,brio,satya-s,Konsumsi BBM dalam kota (kmpl),14.2 kmpl,1.0
+honda,brio,satya-s,Girboks,5-Speed,4.0
+honda,brio,satya-s,Jenis Transmisi,Manual,4.0
+honda,brio,satya-s,Jenis penggerak,FWD,4.0
+honda,brio,satya-s,Jumlah Silinder,4,5.0
+honda,brio,satya-s,Katup per Silinder,4,5.0
+honda,brio,satya-s,Konfigurasi Katup,SOHC,5.0
+honda,brio,satya-s,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,brio,satya-s,Rasio Kompresi,10.1:1,5.0
+honda,brio,satya-s,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,brio,satya-e-cvt,Kapasitas mesin,1199 cc,1.0
+honda,brio,satya-e-cvt,Tenaga,89 hp,1.0
+honda,brio,satya-e-cvt,Konsumsi BBM,20 kmpl,1.0
+honda,brio,satya-e-cvt,Torsi,110 Nm,1.0
+honda,brio,satya-e-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,brio,satya-e-cvt,Girboks,Variable Speed,4.0
+honda,brio,satya-e-cvt,Jenis Transmisi,CVT,4.0
+honda,brio,satya-e-cvt,Jenis penggerak,FWD,4.0
+honda,brio,satya-e-cvt,Jumlah Silinder,4,5.0
+honda,brio,satya-e-cvt,Katup per Silinder,4,5.0
+honda,brio,satya-e-cvt,Konfigurasi Katup,SOHC,5.0
+honda,brio,satya-e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,brio,satya-e-cvt,Rasio Kompresi,10.1:1,5.0
+honda,brio,satya-e-cvt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,brio,satya-e,Kapasitas mesin,1199 cc,1.0
+honda,brio,satya-e,Tenaga,89 hp,1.0
+honda,brio,satya-e,Konsumsi BBM Tol,22.5 kmpl,1.0
+honda,brio,satya-e,Konsumsi BBM,20 kmpl,1.0
+honda,brio,satya-e,Jenis Bahan Bakar,Bensin,1.0
+honda,brio,satya-e,Torsi,110 Nm,1.0
+honda,brio,satya-e,Konsumsi BBM dalam kota (kmpl),14.2 kmpl,1.0
+honda,brio,satya-e,Girboks,5-Speed,4.0
+honda,brio,satya-e,Jenis Transmisi,Manual,4.0
+honda,brio,satya-e,Jenis penggerak,FWD,4.0
+honda,brio,satya-e,Jumlah Silinder,4,5.0
+honda,brio,satya-e,Katup per Silinder,4,5.0
+honda,brio,satya-e,Konfigurasi Katup,SOHC,5.0
+honda,brio,satya-e,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,brio,satya-e,Rasio Kompresi,10.1:1,5.0
+honda,brio,satya-e,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,brio,rs,Kapasitas mesin,1199 cc,1.0
+honda,brio,rs,Tenaga,89 hp,1.0
+honda,brio,rs,Konsumsi BBM,20 kmpl,1.0
+honda,brio,rs,Torsi,110 Nm,1.0
+honda,brio,rs,Jenis Bahan Bakar,Bensin,1.0
+honda,brio,rs,Girboks,5-Speed,4.0
+honda,brio,rs,Jenis penggerak,FWD,4.0
+honda,brio,rs,Jenis Transmisi,Manual,4.0
+honda,brio,rs,Jumlah Silinder,4,5.0
+honda,brio,rs,Katup per Silinder,4,5.0
+honda,brio,rs,Konfigurasi Katup,SOHC,5.0
+honda,brio,rs,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,brio,rs,Rasio Kompresi,10.1:1,5.0
+honda,brio,rs,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,brio,rs-cvt,Kapasitas mesin,1199 cc,1.0
+honda,brio,rs-cvt,Tenaga,89 hp,1.0
+honda,brio,rs-cvt,Konsumsi BBM,20 kmpl,1.0
+honda,brio,rs-cvt,Torsi,110 Nm,1.0
+honda,brio,rs-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,brio,rs-cvt,Girboks,Variable Speed,4.0
+honda,brio,rs-cvt,Jenis penggerak,FWD,4.0
+honda,brio,rs-cvt,Jenis Transmisi,CVT,4.0
+honda,brio,rs-cvt,Jumlah Silinder,4,5.0
+honda,brio,rs-cvt,Katup per Silinder,4,5.0
+honda,brio,rs-cvt,Konfigurasi Katup,SOHC,5.0
+honda,brio,rs-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,brio,rs-cvt,Rasio Kompresi,10.1:1,5.0
+honda,brio,rs-cvt,Mesin,"1.2L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,hr-v,1-5l-s-cvt,Kapasitas mesin,1497 cc,1.0
+honda,hr-v,1-5l-s-cvt,Tenaga,118 hp,1.0
+honda,hr-v,1-5l-s-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,hr-v,1-5l-s-cvt,Torsi,145 Nm,1.0
+honda,hr-v,1-5l-s-cvt,Girboks,Variable Speed,4.0
+honda,hr-v,1-5l-s-cvt,Jenis Transmisi,CVT,4.0
+honda,hr-v,1-5l-s-cvt,Jumlah Silinder,4,5.0
+honda,hr-v,1-5l-s-cvt,Katup per Silinder,4,5.0
+honda,hr-v,1-5l-s-cvt,Konfigurasi Katup,SOHC,5.0
+honda,hr-v,1-5l-s-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,hr-v,1-5l-s-cvt,Rasio Kompresi,10.3:1,5.0
+honda,hr-v,1-5l-s-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,hr-v,1-5l-s,Kapasitas mesin,1497 cc,1.0
+honda,hr-v,1-5l-s,Tenaga,118 hp,1.0
+honda,hr-v,1-5l-s,Jenis Bahan Bakar,Bensin,1.0
+honda,hr-v,1-5l-s,Torsi,145 Nm,1.0
+honda,hr-v,1-5l-s,Girboks,6-Speed,4.0
+honda,hr-v,1-5l-s,Jenis Transmisi,Manual,4.0
+honda,hr-v,1-5l-s,Jumlah Silinder,4,5.0
+honda,hr-v,1-5l-s,Katup per Silinder,4,5.0
+honda,hr-v,1-5l-s,Konfigurasi Katup,SOHC,5.0
+honda,hr-v,1-5l-s,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,hr-v,1-5l-s,Rasio Kompresi,10.3:1,5.0
+honda,hr-v,1-5l-s,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,hr-v,1-5l-e-cvt,Kapasitas mesin,1497 cc,1.0
+honda,hr-v,1-5l-e-cvt,Tenaga,118 hp,1.0
+honda,hr-v,1-5l-e-cvt,Torsi,145 Nm,1.0
+honda,hr-v,1-5l-e-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,hr-v,1-5l-e-cvt,Girboks,Variable Speed,4.0
+honda,hr-v,1-5l-e-cvt,Jenis Transmisi,CVT,4.0
+honda,hr-v,1-5l-e-cvt,Jumlah Silinder,4,5.0
+honda,hr-v,1-5l-e-cvt,Katup per Silinder,4,5.0
+honda,hr-v,1-5l-e-cvt,Konfigurasi Katup,SOHC,5.0
+honda,hr-v,1-5l-e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,hr-v,1-5l-e-cvt,Rasio Kompresi,10.3:1,5.0
+honda,hr-v,1-5l-e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,hr-v,1-8l-prestige,Kapasitas mesin,1799 cc,1.0
+honda,hr-v,1-8l-prestige,Tenaga,137 hp,1.0
+honda,hr-v,1-8l-prestige,Torsi,169 Nm,1.0
+honda,hr-v,1-8l-prestige,Jenis Bahan Bakar,Bensin,1.0
+honda,hr-v,1-8l-prestige,Girboks,Variable Speed,4.0
+honda,hr-v,1-8l-prestige,Jenis Transmisi,CVT,4.0
+honda,hr-v,1-8l-prestige,Jumlah Silinder,4,5.0
+honda,hr-v,1-8l-prestige,Katup per Silinder,4,5.0
+honda,hr-v,1-8l-prestige,Konfigurasi Katup,SOHC,5.0
+honda,hr-v,1-8l-prestige,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,hr-v,1-8l-prestige,Rasio Kompresi,9.7:1,5.0
+honda,hr-v,1-8l-prestige,Mesin,"1.8L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,hr-v,1-5l-e-cvt-special-edition,Kapasitas mesin,1497 cc,1.0
+honda,hr-v,1-5l-e-cvt-special-edition,Tenaga,118 hp,1.0
+honda,hr-v,1-5l-e-cvt-special-edition,Torsi,145 Nm,1.0
+honda,hr-v,1-5l-e-cvt-special-edition,Jenis Bahan Bakar,Bensin,1.0
+honda,hr-v,1-5l-e-cvt-special-edition,Girboks,Variable Speed,4.0
+honda,hr-v,1-5l-e-cvt-special-edition,Jenis Transmisi,CVT,4.0
+honda,hr-v,1-5l-e-cvt-special-edition,Jumlah Silinder,4,5.0
+honda,hr-v,1-5l-e-cvt-special-edition,Katup per Silinder,4,5.0
+honda,hr-v,1-5l-e-cvt-special-edition,Konfigurasi Katup,SOHC,5.0
+honda,hr-v,1-5l-e-cvt-special-edition,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,hr-v,1-5l-e-cvt-special-edition,Rasio Kompresi,10.3:1,5.0
+honda,hr-v,1-5l-e-cvt-special-edition,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,mobilio,s-mt,Kapasitas mesin,1496 cc,1.0
+honda,mobilio,s-mt,Tenaga,116 hp,1.0
+honda,mobilio,s-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,mobilio,s-mt,Torsi,145 Nm,1.0
+honda,mobilio,s-mt,Girboks,5-Speed,4.0
+honda,mobilio,s-mt,Jenis Transmisi,Manual,4.0
+honda,mobilio,s-mt,Jumlah Silinder,4,5.0
+honda,mobilio,s-mt,Katup per Silinder,4,5.0
+honda,mobilio,s-mt,Konfigurasi Katup,SOHC,5.0
+honda,mobilio,s-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,mobilio,s-mt,Rasio Kompresi,10.3:1,5.0
+honda,mobilio,s-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,mobilio,e-mt,Kapasitas mesin,1496 cc,1.0
+honda,mobilio,e-mt,Tenaga,116 hp,1.0
+honda,mobilio,e-mt,Torsi,145 Nm,1.0
+honda,mobilio,e-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,mobilio,e-mt,Girboks,5-Speed,4.0
+honda,mobilio,e-mt,Jenis Transmisi,Manual,4.0
+honda,mobilio,e-mt,Jumlah Silinder,4,5.0
+honda,mobilio,e-mt,Katup per Silinder,4,5.0
+honda,mobilio,e-mt,Konfigurasi Katup,SOHC,5.0
+honda,mobilio,e-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,mobilio,e-mt,Rasio Kompresi,10.3:1,5.0
+honda,mobilio,e-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,mobilio,e-cvt,Kapasitas mesin,1496 cc,1.0
+honda,mobilio,e-cvt,Tenaga,116 hp,1.0
+honda,mobilio,e-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,mobilio,e-cvt,Torsi,145 Nm,1.0
+honda,mobilio,e-cvt,Girboks,Variable Speed,4.0
+honda,mobilio,e-cvt,Jenis Transmisi,CVT,4.0
+honda,mobilio,e-cvt,Jumlah Silinder,4,5.0
+honda,mobilio,e-cvt,Katup per Silinder,4,5.0
+honda,mobilio,e-cvt,Konfigurasi Katup,SOHC,5.0
+honda,mobilio,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,mobilio,e-cvt,Rasio Kompresi,10.3:1,5.0
+honda,mobilio,e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,mobilio,rs-mt,Kapasitas mesin,1496 cc,1.0
+honda,mobilio,rs-mt,Tenaga,116 hp,1.0
+honda,mobilio,rs-mt,Torsi,145 Nm,1.0
+honda,mobilio,rs-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,mobilio,rs-mt,Girboks,5-Speed,4.0
+honda,mobilio,rs-mt,Jenis Transmisi,Manual,4.0
+honda,mobilio,rs-mt,Jumlah Silinder,4,5.0
+honda,mobilio,rs-mt,Katup per Silinder,4,5.0
+honda,mobilio,rs-mt,Konfigurasi Katup,SOHC,5.0
+honda,mobilio,rs-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,mobilio,rs-mt,Rasio Kompresi,10.3:1,5.0
+honda,mobilio,rs-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,mobilio,rs-cvt,Kapasitas mesin,1496 cc,1.0
+honda,mobilio,rs-cvt,Tenaga,116 hp,1.0
+honda,mobilio,rs-cvt,Torsi,145 Nm,1.0
+honda,mobilio,rs-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,mobilio,rs-cvt,Girboks,Variable Speed,4.0
+honda,mobilio,rs-cvt,Jenis Transmisi,CVT,4.0
+honda,mobilio,rs-cvt,Jumlah Silinder,4,5.0
+honda,mobilio,rs-cvt,Katup per Silinder,4,5.0
+honda,mobilio,rs-cvt,Konfigurasi Katup,SOHC,5.0
+honda,mobilio,rs-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,mobilio,rs-cvt,Rasio Kompresi,10.3:1,5.0
+honda,mobilio,rs-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,br-v,e-cvt,Kapasitas mesin,1497 cc,1.0
+honda,br-v,e-cvt,Tenaga,118 hp,1.0
+honda,br-v,e-cvt,Torsi,145 Nm,1.0
+honda,br-v,e-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,br-v,e-cvt,Girboks,Variable Speed,4.0
+honda,br-v,e-cvt,Jenis penggerak,FWD,4.0
+honda,br-v,e-cvt,Jenis Transmisi,CVT,4.0
+honda,br-v,e-cvt,Jumlah Silinder,4,5.0
+honda,br-v,e-cvt,Katup per Silinder,4,5.0
+honda,br-v,e-cvt,Konfigurasi Katup,SOHC,5.0
+honda,br-v,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,br-v,e-cvt,Rasio Kompresi,10.3:1,5.0
+honda,br-v,e-cvt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,br-v,prestige-cvt,Kapasitas mesin,1497 cc,1.0
+honda,br-v,prestige-cvt,Tenaga,118 hp,1.0
+honda,br-v,prestige-cvt,Torsi,145 Nm,1.0
+honda,br-v,prestige-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,br-v,prestige-cvt,Girboks,Variable Speed,4.0
+honda,br-v,prestige-cvt,Jenis penggerak,FWD,4.0
+honda,br-v,prestige-cvt,Jenis Transmisi,CVT,4.0
+honda,br-v,prestige-cvt,Jumlah Silinder,4,5.0
+honda,br-v,prestige-cvt,Katup per Silinder,4,5.0
+honda,br-v,prestige-cvt,Konfigurasi Katup,SOHC,5.0
+honda,br-v,prestige-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,br-v,prestige-cvt,Rasio Kompresi,10.3:1,5.0
+honda,br-v,prestige-cvt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,br-v,s-6mt,Kapasitas mesin,1497 cc,1.0
+honda,br-v,s-6mt,Tenaga,118 hp,1.0
+honda,br-v,s-6mt,Torsi,145 Nm,1.0
+honda,br-v,s-6mt,Jenis Bahan Bakar,Bensin,1.0
+honda,br-v,s-6mt,Girboks,6-Speed,4.0
+honda,br-v,s-6mt,Jenis penggerak,FWD,4.0
+honda,br-v,s-6mt,Jenis Transmisi,Manual,4.0
+honda,br-v,s-6mt,Jumlah Silinder,4,5.0
+honda,br-v,s-6mt,Katup per Silinder,4,5.0
+honda,br-v,s-6mt,Konfigurasi Katup,SOHC,5.0
+honda,br-v,s-6mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,br-v,s-6mt,Rasio Kompresi,10.3:1,5.0
+honda,br-v,s-6mt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,br-v,e-mt,Kapasitas mesin,1497 cc,1.0
+honda,br-v,e-mt,Tenaga,118 hp,1.0
+honda,br-v,e-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,br-v,e-mt,Torsi,145 Nm,1.0
+honda,br-v,e-mt,Girboks,6-Speed,4.0
+honda,br-v,e-mt,Jenis penggerak,FWD,4.0
+honda,br-v,e-mt,Jenis Transmisi,Manual,4.0
+honda,br-v,e-mt,Jumlah Silinder,4,5.0
+honda,br-v,e-mt,Katup per Silinder,4,5.0
+honda,br-v,e-mt,Konfigurasi Katup,SOHC,5.0
+honda,br-v,e-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,br-v,e-mt,Rasio Kompresi,10.3:1,5.0
+honda,br-v,e-mt,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve SOHC i-VTEC",5.0
+honda,jazz,cvt,Kapasitas mesin,1497 cc,1.0
+honda,jazz,cvt,Tenaga,118 hp,1.0
+honda,jazz,cvt,Torsi,145 Nm,1.0
+honda,jazz,cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,jazz,cvt,Girboks,Variable Speed,4.0
+honda,jazz,cvt,Jenis penggerak,FWD,4.0
+honda,jazz,cvt,Jenis Transmisi,CVT,4.0
+honda,jazz,cvt,Jumlah Silinder,4,5.0
+honda,jazz,cvt,Katup per Silinder,4,5.0
+honda,jazz,cvt,Konfigurasi Katup,SOHC,5.0
+honda,jazz,cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,jazz,cvt,Rasio Kompresi,10.3:1,5.0
+honda,jazz,cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5.0
+honda,jazz,rs-cvt,Kapasitas mesin,1497 cc,1.0
+honda,jazz,rs-cvt,Tenaga,118 hp,1.0
+honda,jazz,rs-cvt,Torsi,145 Nm,1.0
+honda,jazz,rs-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,jazz,rs-cvt,Girboks,Variable Speed,4.0
+honda,jazz,rs-cvt,Jenis penggerak,FWD,4.0
+honda,jazz,rs-cvt,Jenis Transmisi,CVT,4.0
+honda,jazz,rs-cvt,Jumlah Silinder,4,5.0
+honda,jazz,rs-cvt,Katup per Silinder,4,5.0
+honda,jazz,rs-cvt,Konfigurasi Katup,SOHC,5.0
+honda,jazz,rs-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,jazz,rs-cvt,Rasio Kompresi,10.3:1,5.0
+honda,jazz,rs-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5.0
+honda,jazz,mt,Kapasitas mesin,1497 cc,1.0
+honda,jazz,mt,Tenaga,118 hp,1.0
+honda,jazz,mt,Torsi,145 Nm,1.0
+honda,jazz,mt,Jenis Bahan Bakar,Bensin,1.0
+honda,jazz,mt,Girboks,5-Speed,4.0
+honda,jazz,mt,Jenis penggerak,FWD,4.0
+honda,jazz,mt,Jenis Transmisi,Manual,4.0
+honda,jazz,mt,Jumlah Silinder,4,5.0
+honda,jazz,mt,Katup per Silinder,4,5.0
+honda,jazz,mt,Konfigurasi Katup,SOHC,5.0
+honda,jazz,mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,jazz,mt,Rasio Kompresi,10.3:1,5.0
+honda,jazz,mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5.0
+honda,jazz,rs-mt,Kapasitas mesin,1497 cc,1.0
+honda,jazz,rs-mt,Tenaga,118 hp,1.0
+honda,jazz,rs-mt,Torsi,145 Nm,1.0
+honda,jazz,rs-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,jazz,rs-mt,Girboks,5-Speed,4.0
+honda,jazz,rs-mt,Jenis penggerak,FWD,4.0
+honda,jazz,rs-mt,Jenis Transmisi,Manual,4.0
+honda,jazz,rs-mt,Jumlah Silinder,4,5.0
+honda,jazz,rs-mt,Katup per Silinder,4,5.0
+honda,jazz,rs-mt,Konfigurasi Katup,SOHC,5.0
+honda,jazz,rs-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,jazz,rs-mt,Rasio Kompresi,10.3:1,5.0
+honda,jazz,rs-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5.0
+honda,cr-v,1-5l-turbo,Kapasitas mesin,1498 cc,1.0
+honda,cr-v,1-5l-turbo,Tenaga,187 hp,1.0
+honda,cr-v,1-5l-turbo,Jenis Bahan Bakar,Bensin,1.0
+honda,cr-v,1-5l-turbo,Torsi,240 Nm,1.0
+honda,cr-v,1-5l-turbo,Girboks,Variable Speed,4.0
+honda,cr-v,1-5l-turbo,Jenis Transmisi,CVT,4.0
+honda,cr-v,1-5l-turbo,Jumlah Silinder,4,5.0
+honda,cr-v,1-5l-turbo,Katup per Silinder,4,5.0
+honda,cr-v,1-5l-turbo,Konfigurasi Katup,DOHC,5.0
+honda,cr-v,1-5l-turbo,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,cr-v,1-5l-turbo,Rasio Kompresi,10.3:1,5.0
+honda,cr-v,1-5l-turbo,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5.0
+honda,cr-v,2-0l,Kapasitas mesin,1997 cc,1.0
+honda,cr-v,2-0l,Tenaga,153 hp,1.0
+honda,cr-v,2-0l,Torsi,189 Nm,1.0
+honda,cr-v,2-0l,Jenis Bahan Bakar,Bensin,1.0
+honda,cr-v,2-0l,Girboks,Variable Speed,4.0
+honda,cr-v,2-0l,Jenis Transmisi,CVT,4.0
+honda,cr-v,2-0l,Jumlah Silinder,4,5.0
+honda,cr-v,2-0l,Katup per Silinder,4,5.0
+honda,cr-v,2-0l,Konfigurasi Katup,SOHC,5.0
+honda,cr-v,2-0l,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,cr-v,2-0l,Rasio Kompresi,10.6:1,5.0
+honda,cr-v,2-0l,Mesin,"2.0L Petrol Engine, 4 Cylinder 16 Valve SOHC VTEC Turbo",5.0
+honda,cr-v,1-5l-turbo-prestige,Kapasitas mesin,1498 cc,1.0
+honda,cr-v,1-5l-turbo-prestige,Tenaga,187 hp,1.0
+honda,cr-v,1-5l-turbo-prestige,Jenis Bahan Bakar,Bensin,1.0
+honda,cr-v,1-5l-turbo-prestige,Torsi,240 Nm,1.0
+honda,cr-v,1-5l-turbo-prestige,Girboks,Variable Speed,4.0
+honda,cr-v,1-5l-turbo-prestige,Jenis Transmisi,CVT,4.0
+honda,cr-v,1-5l-turbo-prestige,Jumlah Silinder,4,5.0
+honda,cr-v,1-5l-turbo-prestige,Katup per Silinder,4,5.0
+honda,cr-v,1-5l-turbo-prestige,Konfigurasi Katup,DOHC,5.0
+honda,cr-v,1-5l-turbo-prestige,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,cr-v,1-5l-turbo-prestige,Rasio Kompresi,10.3:1,5.0
+honda,cr-v,1-5l-turbo-prestige,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5.0
+honda,civic,1-5l-turbo,Kapasitas mesin,1498 cc,1.0
+honda,civic,1-5l-turbo,Tenaga,171 hp,1.0
+honda,civic,1-5l-turbo,Torsi,220 Nm,1.0
+honda,civic,1-5l-turbo,Jenis Bahan Bakar,Bensin,1.0
+honda,civic,1-5l-turbo,Girboks,Variable Speed,4.0
+honda,civic,1-5l-turbo,Jenis Transmisi,CVT,4.0
+honda,civic,1-5l-turbo,Jumlah Silinder,4,5.0
+honda,civic,1-5l-turbo,Katup per Silinder,4,5.0
+honda,civic,1-5l-turbo,Konfigurasi Katup,DOHC,5.0
+honda,civic,1-5l-turbo,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,civic,1-5l-turbo,Rasio Kompresi,10.6:1,5.0
+honda,civic,1-5l-turbo,Mesin,"1.5L Petrol Engine Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5.0
+honda,civic-type-r,6-speed-mt,Kapasitas mesin,1996 cc,1.0
+honda,civic-type-r,6-speed-mt,Tenaga,306 hp,1.0
+honda,civic-type-r,6-speed-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,civic-type-r,6-speed-mt,Torsi,400 Nm,1.0
+honda,civic-type-r,6-speed-mt,Girboks,6-Speed,4.0
+honda,civic-type-r,6-speed-mt,Jenis Transmisi,Manual,4.0
+honda,civic-type-r,6-speed-mt,Jumlah Silinder,4,5.0
+honda,civic-type-r,6-speed-mt,Katup per Silinder,4,5.0
+honda,civic-type-r,6-speed-mt,Konfigurasi Katup,DOHC,5.0
+honda,civic-type-r,6-speed-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,civic-type-r,6-speed-mt,Mesin,"2.0L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC VTEC Turbo",5.0
+honda,city,e-mt,Kapasitas mesin,1497 cc,1.0
+honda,city,e-mt,Tenaga,118 hp,1.0
+honda,city,e-mt,Jenis Bahan Bakar,Bensin,1.0
+honda,city,e-mt,Torsi,145 Nm,1.0
+honda,city,e-mt,Girboks,5-Speed,4.0
+honda,city,e-mt,Jenis penggerak,FWD,4.0
+honda,city,e-mt,Jenis Transmisi,Manual,4.0
+honda,city,e-mt,Jumlah Silinder,4,5.0
+honda,city,e-mt,Katup per Silinder,4,5.0
+honda,city,e-mt,Konfigurasi Katup,SOHC,5.0
+honda,city,e-mt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,city,e-mt,Rasio Kompresi,10.3:1,5.0
+honda,city,e-mt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5.0
+honda,city,e-cvt,Kapasitas mesin,1497 cc,1.0
+honda,city,e-cvt,Tenaga,118 hp,1.0
+honda,city,e-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,city,e-cvt,Torsi,145 Nm,1.0
+honda,city,e-cvt,Girboks,Variable Speed,4.0
+honda,city,e-cvt,Jenis penggerak,FWD,4.0
+honda,city,e-cvt,Jenis Transmisi,CVT,4.0
+honda,city,e-cvt,Jumlah Silinder,4,5.0
+honda,city,e-cvt,Katup per Silinder,4,5.0
+honda,city,e-cvt,Konfigurasi Katup,SOHC,5.0
+honda,city,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,city,e-cvt,Rasio Kompresi,10.3:1,5.0
+honda,city,e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve SOHC",5.0
+honda,civic-hatchback,e-cvt,Kapasitas mesin,1498 cc,1.0
+honda,civic-hatchback,e-cvt,Tenaga,171 hp,1.0
+honda,civic-hatchback,e-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,civic-hatchback,e-cvt,Torsi,220 Nm,1.0
+honda,civic-hatchback,e-cvt,Girboks,Variable Speed,4.0
+honda,civic-hatchback,e-cvt,Jenis Transmisi,CVT,4.0
+honda,civic-hatchback,e-cvt,Jumlah Silinder,4,5.0
+honda,civic-hatchback,e-cvt,Katup per Silinder,4,5.0
+honda,civic-hatchback,e-cvt,Konfigurasi Katup,DOHC,5.0
+honda,civic-hatchback,e-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,civic-hatchback,e-cvt,Rasio Kompresi,10.6:1,5.0
+honda,civic-hatchback,e-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5.0
+honda,civic-hatchback,s-cvt,Kapasitas mesin,1498 cc,1.0
+honda,civic-hatchback,s-cvt,Tenaga,171 hp,1.0
+honda,civic-hatchback,s-cvt,Torsi,220 Nm,1.0
+honda,civic-hatchback,s-cvt,Jenis Bahan Bakar,Bensin,1.0
+honda,civic-hatchback,s-cvt,Girboks,Variable Speed,4.0
+honda,civic-hatchback,s-cvt,Jenis Transmisi,CVT,4.0
+honda,civic-hatchback,s-cvt,Jumlah Silinder,4,5.0
+honda,civic-hatchback,s-cvt,Katup per Silinder,4,5.0
+honda,civic-hatchback,s-cvt,Konfigurasi Katup,DOHC,5.0
+honda,civic-hatchback,s-cvt,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,civic-hatchback,s-cvt,Rasio Kompresi,10.6:1,5.0
+honda,civic-hatchback,s-cvt,Mesin,"1.5L Petrol Engine, 4 Cylinder 16 Valve DOHC VTEC Turbo",5.0
+honda,odyssey,2-4l,Kapasitas mesin,2356 cc,1.0
+honda,odyssey,2-4l,Tenaga,173 hp,1.0
+honda,odyssey,2-4l,Torsi,225 Nm,1.0
+honda,odyssey,2-4l,Jenis Bahan Bakar,Bensin,1.0
+honda,odyssey,2-4l,Girboks,Variable Speed,4.0
+honda,odyssey,2-4l,Jenis Transmisi,CVT,4.0
+honda,odyssey,2-4l,Jumlah Silinder,4,5.0
+honda,odyssey,2-4l,Katup per Silinder,4,5.0
+honda,odyssey,2-4l,Konfigurasi Katup,DOHC,5.0
+honda,odyssey,2-4l,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,odyssey,2-4l,Rasio Kompresi,10.1:1,5.0
+honda,odyssey,2-4l,Mesin,"2.4L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC i-VTEC",5.0
+honda,accord,1-5l,Kapasitas mesin,1498 cc,1.0
+honda,accord,1-5l,Tenaga,187 hp,1.0
+honda,accord,1-5l,Torsi,260 Nm,1.0
+honda,accord,1-5l,Jenis Bahan Bakar,Bensin,1.0
+honda,accord,1-5l,Girboks,Variable Speed,4.0
+honda,accord,1-5l,Jenis Transmisi,CVT,4.0
+honda,accord,1-5l,Jenis penggerak,FWD,4.0
+honda,accord,1-5l,Jumlah Silinder,4,5.0
+honda,accord,1-5l,Katup per Silinder,4,5.0
+honda,accord,1-5l,Konfigurasi Katup,DOHC,5.0
+honda,accord,1-5l,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,accord,1-5l,Rasio Kompresi,10.3:1,5.0
+honda,accord,1-5l,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC",5.0
+honda,civic-hatchback-rs,1-5l,Kapasitas mesin,1498 cc,1.0
+honda,civic-hatchback-rs,1-5l,Tenaga,171 hp,1.0
+honda,civic-hatchback-rs,1-5l,Jenis Bahan Bakar,Bensin,1.0
+honda,civic-hatchback-rs,1-5l,Torsi,220 Nm,1.0
+honda,civic-hatchback-rs,1-5l,Girboks,Variable Speed,4.0
+honda,civic-hatchback-rs,1-5l,Jenis Transmisi,CVT,4.0
+honda,civic-hatchback-rs,1-5l,Jumlah Silinder,4,5.0
+honda,civic-hatchback-rs,1-5l,Katup per Silinder,4,5.0
+honda,civic-hatchback-rs,1-5l,Konfigurasi Katup,DOHC,5.0
+honda,civic-hatchback-rs,1-5l,Sistem Suplai Bahan Bakar,PGM-FI,5.0
+honda,civic-hatchback-rs,1-5l,Mesin,"1.5L Petrol Engine, Inline 4 Cylinder 16 Valve DOHC",5.0
+toyota,fortuner,2-7-srz-at,Harga,"Rp 685,05 Juta*",
+toyota,fortuner,2-7-trd-at,Harga,"Rp 613,45 Juta*",
+toyota,fortuner,2-4-vrz-at,Harga,"Rp 554,85 Juta*",
+toyota,fortuner,2-4-g-at,Harga,"Rp 541,55 Juta*",
+toyota,fortuner,2-4-g-mt,Harga,"Rp 510,95 Juta*",
+toyota,fortuner,2-4-vrz-at-4x4,Harga,"Rp 492,95 Juta*",
+toyota,fortuner,2-4-g-at-4x4,Harga,"Rp 580,25 Juta*",
+toyota,fortuner,2-4-trd-at,Harga,"Rp 566,95 Juta*",
+toyota,kijang-innova,v-at-gasoline,Harga,"Rp 394,85 Juta*",
+toyota,kijang-innova,v-mt-gasoline,Harga,"Rp 375,05 Juta*",
+toyota,kijang-innova,g-at-gasoline,Harga,"Rp 346,25 Juta*",
+toyota,kijang-innova,g-mt-gasoline,Harga,"Rp 326,05 Juta*",
+toyota,kijang-innova,q-at-gasoline,Harga,"Rp 428,2 Juta*",
+toyota,kijang-innova,q-mt-gasoline,Harga,"Rp 407,9 Juta*",
+toyota,kijang-innova,v-at-diesel,Harga,"Rp 428,75 Juta*",
+toyota,kijang-innova,v-mt-diesel,Harga,"Rp 408,75 Juta*",
+toyota,kijang-innova,g-at-diesel,Harga,"Rp 377,45 Juta*",
+toyota,kijang-innova,g-mt-diesel,Harga,"Rp 355,95 Juta*",
+toyota,rush,g-mt,Harga,"Rp 255,15 Juta*",
+toyota,rush,g-at,Harga,"Rp 265,15 Juta*",
+toyota,rush,trd-sportivo-mt,Harga,"Rp 266,55 Juta*",
+toyota,rush,trd-sportivo-at,Harga,"Rp 276,55 Juta*",
+toyota,agya,1-0l-g-mt,Harga,"Rp 143,8 Juta*",
+toyota,agya,1-0l-g-at,Harga,"Rp 156,81 Juta*",
+toyota,agya,1-2l-g-mt,Harga,"Rp 148,1 Juta*",
+toyota,agya,1-2l-g-at,Harga,"Rp 161,64 Juta*",
+toyota,agya,1-2l-g-mt-trd,Harga,"Rp 153,44 Juta*",
+toyota,agya,1-2l-trd-at,Harga,"Rp 169,29 Juta*",
+toyota,avanza,1-3g-at,Harga,Rp 218 Juta*,
+toyota,avanza,1-3e-mt,Harga,"Rp 230,3 Juta*",
+toyota,avanza,1-3e-at,Harga,"Rp 228,7 Juta*",
+toyota,avanza,1-3g-mt,Harga,"Rp 200,15 Juta*",
+toyota,avanza,1-5g-mt,Harga,"Rp 211,35 Juta*",
+toyota,calya,e-mt,Harga,"Rp 147,3 Juta*",
+toyota,calya,g-at,Harga,"Rp 165,8 Juta*",
+toyota,calya,g-mt,Harga,"Rp 153,6 Juta*",
+toyota,avanza-veloz,1-3-mt,Harga,"Rp 224,7 Juta*",
+toyota,avanza-veloz,1-5-mt,Harga,"Rp 236,5 Juta*",
+toyota,avanza-veloz,1-5-at,Harga,"Rp 236,7 Juta*",
+toyota,avanza-veloz,1-3-at,Harga,"Rp 248,5 Juta*",
+toyota,yaris,g-grade-mt,Harga,"Rp 259,25 Juta*",
+toyota,yaris,g-grade-cvt,Harga,"Rp 270,25 Juta*",
+toyota,yaris,trd-sportivo-mt,Harga,"Rp 279,65 Juta*",
+toyota,yaris,trd-sportivo-cvt,Harga,"Rp 291,45 Juta*",
+toyota,alphard,2-5-g-at,Harga,"Rp 2,18 Milyar*",
+toyota,alphard,3-5-q-at,Harga,"Rp 2,52 Milyar*",
+toyota,alphard,2-5-x-at,Harga,"Rp 1,18 Milyar*",
+toyota,land-cruiser,vx-grade,Harga,"Rp 1,95 Milyar*",
+toyota,land-cruiser,vx-r,Harga,"Rp 1,03 Milyar*",
+toyota,sienta,g-cvt,Harga,"Rp 275,75 Juta*",
+toyota,sienta,v-cvt,Harga,"Rp 290,75 Juta*",
+toyota,sienta,q-cvt,Harga,"Rp 311,55 Juta*",
+toyota,sienta,g-mt,Harga,"Rp 257,75 Juta*",
+toyota,sienta,v-mt,Harga,"Rp 272,75 Juta*",
+toyota,hilux,2-0l-single-cab,Harga,"Rp 231,55 Juta*",
+toyota,hilux,2-4l-d-cab-e-mt,Harga,"Rp 426,5 Juta*",
+toyota,hilux,2-4l-d-cab-g-mt,Harga,"Rp 447,5 Juta*",
+toyota,hilux,2-4l-d-cab-v-at,Harga,"Rp 485,6 Juta*",
+toyota,venturer,2-0-mt,Harga,"Rp 423,3 Juta*",
+toyota,venturer,2-0-at,Harga,"Rp 443,6 Juta*",
+toyota,venturer,2-4-mt,Harga,Rp 461 Juta*,
+toyota,venturer,2-4-at,Harga,"Rp 482,6 Juta*",
+toyota,camry,2-5-v,Harga,"Rp 675,15 Juta*",
+toyota,camry,2-5-g,Harga,"Rp 641,85 Juta*",
+toyota,86,mt,Harga,"Rp 816,95 Juta*",
+toyota,86,at,Harga,Rp 168 Juta*,
+toyota,86,trd-at,Harga,Rp 178 Juta*,
+toyota,c-hr-hybrid,1-8l,Harga,"Rp 544,29 Juta*",
+toyota,hiace,commuter-manualluxury,Harga,"Rp 509,05 Juta*",
+toyota,hiace,std-manual,Harga,"Rp 327,55 Juta*",
+toyota,hiace,commuter-manual,Harga,"Rp 343,65 Juta*",
+toyota,hiace,premio,Harga,"Rp 321,75 Juta*",
+toyota,voxy,cvt,Harga,"Rp 2,15 Milyar*",
+toyota,c-hr,1-8l-cvt,Harga,"Rp 835,1 Juta*",
+toyota,vios,g-mt,Harga,"Rp 586,2 Juta*",
+toyota,vios,g-cvt,Harga,"Rp 508,1 Juta*",
+toyota,vios,e-cvt,Harga,"Rp 486,5 Juta*",
+toyota,vellfire,2-5-g-at,Harga,Rp 884 Juta*,
+toyota,supra,3-0l,Harga,"Rp 678,05 Juta*",
+toyota,camry-hybrid,2-5-hv,Harga,"Rp 440,15 Juta*",
+toyota,corolla-altis,v-at,Harga,"Rp 501,25 Juta*",
+toyota,corolla-altis,g-at,Harga,"Rp 537,5 Juta*",
+toyota,corolla-altis,hybrid-at,Harga,"Rp 501,75 Juta*",
+toyota,prius-phev,1-8l,Harga,"Rp 1,18 Milyar*",
+daihatsu,terios,x-mt,Harga,"Rp 211,8 Juta*",
+daihatsu,terios,x-at-deluxe,Harga,"Rp 231,8 Juta*",
+daihatsu,terios,r-mt,Harga,"Rp 244,5 Juta*",
+daihatsu,terios,r-at,Harga,"Rp 254,5 Juta*",
+daihatsu,terios,x-mt-deluxe,Harga,"Rp 221,8 Juta*",
+daihatsu,terios,r-mt-deluxe,Harga,"Rp 254,5 Juta*",
+daihatsu,terios,r-at-deluxe,Harga,"Rp 264,5 Juta*",
+daihatsu,ayla,1-0l-d-mt,Harga,"Rp 211,1 Juta*",
+daihatsu,ayla,1-0l-x-mt,Harga,"Rp 200,1 Juta*",
+daihatsu,ayla,1-0l-x-at,Harga,"Rp 102,15 Juta*",
+daihatsu,ayla,1-2l-x-mt,Harga,"Rp 125,15 Juta*",
+daihatsu,ayla,1-2l-x-at,Harga,"Rp 134,2 Juta*",
+daihatsu,ayla,1-2l-r-mt,Harga,"Rp 136,45 Juta*",
+daihatsu,ayla,1-2l-r-at,Harga,"Rp 146,45 Juta*",
+daihatsu,ayla,1-0l-d-plus-mt,Harga,"Rp 143,4 Juta*",
+daihatsu,ayla,1-0l-x-mt-dlx,Harga,"Rp 155,9 Juta*",
+daihatsu,ayla,1-0l-x-at-dlx,Harga,"Rp 114,35 Juta*",
+daihatsu,ayla,1-2l-r-mt-dlx,Harga,"Rp 132,5 Juta*",
+daihatsu,ayla,1-2l-r-at-dlx,Harga,"Rp 141,55 Juta*",
+daihatsu,sirion,1-3l-at,Harga,"Rp 147,4 Juta*",
+daihatsu,sirion,1-3l-mt,Harga,"Rp 159,9 Juta*",
+daihatsu,sigra,1-0-d-mt,Harga,"Rp 119,5 Juta*",
+daihatsu,sigra,1-2-x-at,Harga,"Rp 152,05 Juta*",
+daihatsu,sigra,1-0-m-mt,Harga,"Rp 129,9 Juta*",
+daihatsu,sigra,1-2-x-mt,Harga,"Rp 139,25 Juta*",
+daihatsu,sigra,1-2-r-mt,Harga,"Rp 145,65 Juta*",
+daihatsu,sigra,1-2-r-at,Harga,"Rp 158,45 Juta*",
+daihatsu,sigra,1-2-x-dlx-mt,Harga,"Rp 144,75 Juta*",
+daihatsu,sigra,1-2-x-dlx-at,Harga,"Rp 157,55 Juta*",
+daihatsu,sigra,1-2-r-dlx-mt,Harga,"Rp 149,45 Juta*",
+daihatsu,sigra,1-2-r-dlx-at,Harga,"Rp 162,25 Juta*",
+daihatsu,grand-xenia,1-3-x-deluxe-at,Harga,"Rp 194,25 Juta*",
+daihatsu,grand-xenia,1-3-r-deluxe-mt,Harga,"Rp 205,15 Juta*",
+daihatsu,grand-xenia,1-3-r-deluxe-at,Harga,"Rp 205,65 Juta*",
+daihatsu,grand-xenia,1-3-x-mt,Harga,"Rp 216,55 Juta*",
+daihatsu,grand-xenia,1-3-x-at,Harga,"Rp 227,25 Juta*",
+daihatsu,grand-xenia,1-3-r-mt,Harga,"Rp 238,15 Juta*",
+daihatsu,grand-xenia,1-3-r-at,Harga,"Rp 206,2 Juta*",
+daihatsu,grand-xenia,1-5-r-deluxe-mt,Harga,"Rp 218,05 Juta*",
+daihatsu,grand-xenia,1-5-r-deluxe-at,Harga,"Rp 217,45 Juta*",
+daihatsu,grand-xenia,1-3-x-deluxe-mt,Harga,"Rp 226,95 Juta*",
+daihatsu,luxio,1-5-d-mt,Harga,"Rp 203,7 Juta*",
+daihatsu,luxio,1-5-x-mt,Harga,"Rp 221,85 Juta*",
+daihatsu,luxio,1-5-x-at,Harga,"Rp 232,95 Juta*",
+daihatsu,gran-max-pu,1-3-std,Harga,"Rp 141,4 Juta*",
+daihatsu,gran-max-pu,1-5-std,Harga,"Rp 146,1 Juta*",
+daihatsu,gran-max-pu,1-5-std-acaps,Harga,"Rp 153,1 Juta*",
+daihatsu,gran-max-pu,box-1-5-sliding,Harga,"Rp 168,1 Juta*",
+daihatsu,gran-max-pu,1-3-3w,Harga,"Rp 141,4 Juta*",
+daihatsu,gran-max-pu,1-5-3w,Harga,"Rp 146,1 Juta*",
+daihatsu,gran-max-pu,box-1-3-sliding,Harga,"Rp 163,4 Juta*",
+daihatsu,gran-max-pu,box-1-5,Harga,"Rp 175,1 Juta*",
+daihatsu,gran-max-mb,1-3-d-ff-fh,Harga,"Rp 178,28 Juta*",
+daihatsu,gran-max-mb,1-3-d-fh,Harga,"Rp 171,88 Juta*",
+daihatsu,gran-max-mb,1-5-d-ps-fh,Harga,"Rp 187,88 Juta*",
+honda,brio,satya-s,Harga,"Rp 148,4 Juta*",
+honda,brio,satya-e-cvt,Harga,"Rp 172,6 Juta*",
+honda,brio,satya-e,Harga,"Rp 157,2 Juta*",
+honda,brio,rs,Harga,"Rp 186,9 Juta*",
+honda,brio,rs-cvt,Harga,"Rp 202,2 Juta*",
+honda,hr-v,1-5l-s-cvt,Harga,"Rp 311,8 Juta*",
+honda,hr-v,1-5l-s,Harga,"Rp 301,6 Juta*",
+honda,hr-v,1-5l-e-cvt,Harga,"Rp 335,9 Juta*",
+honda,hr-v,1-8l-prestige,Harga,"Rp 420,8 Juta*",
+honda,hr-v,1-5l-e-cvt-special-edition,Harga,"Rp 353,1 Juta*",
+honda,mobilio,s-mt,Harga,"Rp 205,5 Juta*",
+honda,mobilio,e-mt,Harga,"Rp 226,6 Juta*",
+honda,mobilio,e-cvt,Harga,"Rp 238,1 Juta*",
+honda,mobilio,rs-mt,Harga,"Rp 250,5 Juta*",
+honda,mobilio,rs-cvt,Harga,"Rp 261,4 Juta*",
+honda,br-v,e-cvt,Harga,"Rp 276,8 Juta*",
+honda,br-v,prestige-cvt,Harga,"Rp 293,8 Juta*",
+honda,br-v,s-6mt,Harga,"Rp 251,2 Juta*",
+honda,br-v,e-mt,Harga,"Rp 266,6 Juta*",
+honda,jazz,cvt,Harga,"Rp 262,9 Juta*",
+honda,jazz,rs-cvt,Harga,Rp 295 Juta*,
+honda,jazz,mt,Harga,"Rp 252,5 Juta*",
+honda,jazz,rs-mt,Harga,"Rp 284,7 Juta*",
+honda,cr-v,1-5l-turbo,Harga,"Rp 502,6 Juta*",
+honda,cr-v,2-0l,Harga,"Rp 467,9 Juta*",
+honda,cr-v,1-5l-turbo-prestige,Harga,"Rp 543,7 Juta*",
+honda,civic,1-5l-turbo,Harga,"Rp 536,5 Juta*",
+honda,civic-type-r,6-speed-mt,Harga,"Rp 1,07 Milyar*",
+honda,city,e-mt,Harga,Rp 337 Juta*,
+honda,city,e-cvt,Harga,"Rp 355,5 Juta*",
+honda,civic-hatchback,e-cvt,Harga,Rp 472 Juta*,
+honda,civic-hatchback,s-cvt,Harga,"Rp 431,6 Juta*",
+honda,odyssey,2-4l,Harga,"Rp 780,7 Juta*",
+honda,accord,1-5l,Harga,"Rp 734,1 Juta*",
+honda,civic-hatchback-rs,1-5l,Harga,Rp 499 Juta*,
